@@ -1,0 +1,59 @@
+query: indemnity claim accrue before judgment
+relevance_criteria: 'The BEST cases are the two that set out the modern rules around
+  when indemnity actions accrue: People ex rel. Dept. of Transportation v. Superior
+  Court and State of California v. Superior Court (which identified a change in the
+  rule from the prior case). Recent published cases that post-date the BEST cases
+  and express the rule are VERY_GOOD. Older published cases that post-date the BEST
+  cases and express the rule are GOOD. Older cases that pre-date the BEST cases are
+  BAD. (They''re fine results but shouldn''t be returned.) Unpublished cases that
+  express the rule are left UNKNOWN.'
+cases:
+- name: People ex rel. Dept. of Transportation v. Superior Court, 26 Cal.3d 744, 163
+    Cal.Rptr. 585, 608 P.2d 673 (1980)
+  quality: BEST
+- name: State of California v. Superior Court, 143 Cal.App.3d 754, 192 Cal.Rptr. 198
+    (1983)
+  quality: BEST
+- name: Centex Homes v. Superior Court, 214 Cal.App.4th 1090, 154 Cal.Rptr.3d 737
+    (2013)
+  quality: VERY_GOOD
+- name: McKee v. National Union Fire Ins. Co., 15 Cal.App.4th 282, 19 Cal.Rptr.2d
+    286 (1993)
+  quality: VERY_GOOD
+- name: Valley Crest Landscape Development, Inc. v. Mission Pools of Escondido, Inc.,
+    238 Cal.App.4th 468, 189 Cal.Rptr.3d 259 (2015)
+  quality: VERY_GOOD
+- name: Nationwide Ins. Co. v. Superior Court, 128 Cal.App.3d 711, 180 Cal.Rptr. 464
+    (1982)
+  quality: GOOD
+- name: Postley v. Harvey, 153 Cal.App.3d 280, 200 Cal.Rptr. 354 (1984)
+  quality: GOOD
+- name: Smith v. Parks Manor, 197 Cal.App.3d 872, 243 Cal.Rptr. 256 (1987)
+  quality: GOOD
+- name: U.S. Cold Storage of California v. Matson Navigation Co., 162 Cal.App.3d 1228,
+    209 Cal.Rptr. 144 (1984)
+  quality: GOOD
+- name: Valley Circle Estates v. VTN Consolidated, Inc., 33 Cal.3d 604, 189 Cal.Rptr.
+    871, 659 P.2d 1160 (1983)
+  quality: GOOD
+- name: Leegin Creative Leather Products, Inc. v. Bucklesource, Inc. (Oct. 18, 2010,
+    B219036)
+  quality: UNKNOWN
+- name: American Motorcycle Assn. v. Superior Court, 20 Cal.3d 578, 146 Cal.Rptr.
+    182, 578 P.2d 899 (1978)
+  quality: BAD
+- name: E.L. White, Inc. v. City of Huntington Beach, 21 Cal.3d 497, 146 Cal.Rptr.
+    614, 579 P.2d 505 (1978)
+  quality: BAD
+- name: Evangelatos v. Superior Court, 44 Cal.3d 1188, 246 Cal.Rptr. 629, 753 P.2d
+    585 (1988)
+  quality: BAD
+- name: Gray v. Zurich Insurance Co., 65 Cal.2d 263, 54 Cal.Rptr. 104, 419 P.2d 168
+    (1966)
+  quality: BAD
+- name: Legg v. Mutual Benefit Health & Accident Assn., 184 Cal.App.2d 482, 7 Cal.Rptr.
+    595 (1960)
+  quality: BAD
+- name: Mathews Cadillac, Inc. v. Phoenix of Hartford Ins. Co., 90 Cal.App.3d 393,
+    153 Cal.Rptr. 267 (1979)
+  quality: BAD

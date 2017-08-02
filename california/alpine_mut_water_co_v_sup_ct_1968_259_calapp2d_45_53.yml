@@ -1,0 +1,63 @@
+query: Alpine Mut. Water Co. v. Sup. Ct. (1968) 259 Cal.App.2d 45, 53
+relevance_criteria: Alpine is BEST. Cases citing it are VERY_GOOD. Other cases are
+  BAD.
+cases:
+- name: Alpine Mut. Water Co. v. Superior Court, 259 Cal.App.2d 45, 66 Cal.Rptr. 250
+    (1968)
+  quality: BEST
+- name: Danzig v. Superior Court, 87 Cal.App.3d 604, 151 Cal.Rptr. 185 (1978)
+  quality: VERY_GOOD
+- name: Sav-On Drugs, Inc. v. Superior Court, 15 Cal.3d 1, 123 Cal.Rptr. 283, 538
+    P.2d 739 (1975)
+  quality: VERY_GOOD
+- name: Southern California Edison Co. v. Superior Court, 7 Cal.3d 832, 103 Cal.Rptr.
+    709, 500 P.2d 621 (1972)
+  quality: VERY_GOOD
+- name: Spoon v. Superior Court, 130 Cal.App.3d 735, 182 Cal.Rptr. 44, 28 A.L.R.4th
+    974 (1982)
+  quality: VERY_GOOD
+- name: Armstrong World Industries, Inc. v. Aetna Casualty & Surety Co., 45 Cal.App.4th
+    1, 52 Cal.Rptr.2d 690 (1996)
+  quality: BAD
+- name: Bear Valley Mut. Wat. Co. v. County of San Bernardino, 242 Cal.App.2d 68,
+    51 Cal.Rptr. 53 (1966)
+  quality: BAD
+- name: County of Riverside v. Superior Court, 30 Cal.4th 278, 132 Cal.Rptr.2d 713,
+    66 P.3d 718 (2003)
+  quality: BAD
+- name: Daar v. Yellow Cab Co., 67 Cal.2d 695, 63 Cal.Rptr. 724, 433 P.2d 732 (1967)
+  quality: BAD
+- name: Lockyer v. City and County of San Francisco, 33 Cal.4th 1055, 17 Cal.Rptr.3d
+    225, 95 P.3d 459 (2004)
+  quality: BAD
+- name: Martin Marietta Corp. v. Insurance Co. of North America, 40 Cal.App.4th 1113,
+    47 Cal.Rptr.2d 670 (1995)
+  quality: BAD
+- name: Montrose Chemical Corp. v. Admiral Ins. Co., 10 Cal.4th 645, 42 Cal.Rptr.2d
+    324, 897 P.2d 1 (1995)
+  quality: BAD
+- name: Montrose Chemical Corp. v. Superior Court, 6 Cal.4th 287, 24 Cal.Rptr.2d 467,
+    861 P.2d 1153 (1993)
+  quality: BAD
+- name: National Audubon Society v. Superior Court, 33 Cal.3d 419, 189 Cal.Rptr. 346,
+    658 P.2d 709 (1983)
+  quality: BAD
+- name: National Solar Equipment Owners' Assn. v. Grumman Corp., 235 Cal.App.3d 1273,
+    1 Cal.Rptr.2d 325 (1991)
+  quality: BAD
+- name: Oakes v. McCarthy Co., 267 Cal.App.2d 231, 73 Cal.Rptr. 127 (1968)
+  quality: BAD
+- name: People v. Coffman and Marlow, 34 Cal.4th 1, 17 Cal.Rptr.3d 710, 96 P.3d 30
+    (2004)
+  quality: BAD
+- name: Quantification Settlement Agreement Cases, 201 Cal.App.4th 758, 134 Cal.Rptr.3d
+    274 (2011)
+  quality: BAD
+- name: Shell Oil Co. v. Winterthur Swiss Ins. Co., 12 Cal.App.4th 715, 15 Cal.Rptr.2d
+    815 (1993)
+  quality: BAD
+- name: Singer v. Superior Court, 54 Cal.2d 318, 5 Cal.Rptr. 697, 353 P.2d 305 (1960)
+  quality: BAD
+- name: West Pico Furniture Co. v. Superior Court, 56 Cal.2d 407, 15 Cal.Rptr. 119,
+    364 P.2d 295 (1961)
+  quality: BAD

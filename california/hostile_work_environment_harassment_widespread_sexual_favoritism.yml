@@ -1,0 +1,52 @@
+query: Hostile Work Environment Harassment Widespread Sexual Favoritism
+relevance_criteria: Miller is the seminal case on widespread sexual favoritism, so
+  it is BEST. VERY_GOOD results are those discussing sexual favoritism (most of which
+  discuss widespread sexual favoritism, but a couple distinguish individualized sexual
+  favoritism). The remaining cases are BAD.
+cases:
+- name: Miller v. Department of Corrections, 36 Cal.4th 446, 30 Cal.Rptr.3d 797, 115
+    P.3d 77 (2005)
+  quality: BEST
+- name: Brennan v. Townsend & O'Leary Enterprises, Inc., 199 Cal.App.4th 1336, 132
+    Cal.Rptr.3d 292 (2011)
+  quality: VERY_GOOD
+- name: Curling v. CBS Broadcasting Inc. (Jan. 24, 2012, B223145)
+  quality: VERY_GOOD
+- name: Encinas v. Burton (Oct. 3, 2011, B220645)
+  quality: VERY_GOOD
+- name: Ho v. Ericsson Inc. (Sep. 17, 2013, H037772)
+  quality: VERY_GOOD
+- name: Lawal v. 501(c) Insurance Programs, Inc. (Sep. 21, 2007, H029060)
+  quality: VERY_GOOD
+- name: Lewis v. City of Benicia, 224 Cal.App.4th 1519, 169 Cal.Rptr.3d 794 (2014)
+  quality: VERY_GOOD
+- name: Mackey v. Department of Corrections, 105 Cal.App.4th 945, 130 Cal.Rptr.2d
+    57 (2003)
+  quality: VERY_GOOD
+- name: Manuel v. Department of Corr. & Rehab. (Mar. 29, 2012, C062875)
+  quality: VERY_GOOD
+- name: Norton v. San Bernardino City Unified Sch. Dist. (Oct. 9, 2014, G049496)
+  quality: VERY_GOOD
+- name: Proksel v. Gattis, 41 Cal.App.4th 1626, 49 Cal.Rptr.2d 322 (1996)
+  quality: VERY_GOOD
+- name: Rehmani v. Superior Court, 204 Cal.App.4th 945, 139 Cal.Rptr.3d 464 (2012)
+  quality: VERY_GOOD
+- name: Roby v. McKesson Corp., 47 Cal.4th 686, 101 Cal.Rptr.3d 773 (2009)
+  quality: VERY_GOOD
+- name: Tin v. Bank of America, N.A. (Jun. 22, 2010, B215291)
+  quality: VERY_GOOD
+- name: Aguilar v. Avis Rent A Car System, Inc., 21 Cal.4th 121, 87 Cal.Rptr.2d 132,
+    980 P.2d 846 (1999)
+  quality: BAD
+- name: Beyda v. City of Los Angeles, 65 Cal.App.4th 511, 76 Cal.Rptr.2d 547 (1998)
+  quality: BAD
+- name: Fisher v. San Pedro Peninsula Hospital, 214 Cal.App.3d 590, 262 Cal.Rptr.
+    842 (1989)
+  quality: BAD
+- name: Hughes v. Pair, 46 Cal.4th 1035, 95 Cal.Rptr.3d 636, 209 P.3d 963 (2009)
+  quality: BAD
+- name: Kelley v. The Conco Companies, 196 Cal.App.4th 191, 126 Cal.Rptr.3d 651 (2011)
+  quality: BAD
+- name: Lyle v. Warner Brothers Television Productions, 38 Cal.4th 264, 42 Cal.Rptr.3d
+    2, 132 P.3d 211 (2006)
+  quality: BAD

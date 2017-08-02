@@ -1,0 +1,92 @@
+query: liability of parent for child vandalism
+relevance_criteria: "Cynthia mentions a statute dealing with parental liability for\
+  \ a child's vandalism. It's not a case of liability for economic damages, though.\
+  \ It's probably the BEST result. The VERY_GOOD results are those cases discussing\
+  \ parental liability and have the word vandalism. GOOD results are cases about parental\
+  \ or guardian liability for a child's economic damages. BAD results are not parental\
+  \ liability cases. \r\n\r\nMight benefit from statutory anchors? 1714.1"
+cases:
+- name: Cynthia M. v. Rodney E., 228 Cal.App.3d 1040, 279 Cal.Rptr. 94 (1991)
+  quality: BEST
+- name: In re Alexander A., 192 Cal.App.4th 847, 120 Cal.Rptr.3d 724 (2011)
+  quality: BEST
+- name: In re Edward C. (Dec. 30, 2014, A137899)
+  quality: VERY_GOOD
+- name: M.W. v. Panama Buena Vista Union Sch. Dist., 110 Cal.App.4th 508, 1 Cal.Rptr.3d
+    673 (2003)
+  quality: VERY_GOOD
+- name: Margaret W. v. Kelley R., 139 Cal.App.4th 141, 42 Cal.Rptr.3d 519 (2006)
+  quality: VERY_GOOD
+- name: Romero v. Superior Court, 89 Cal.App.4th 1068, 107 Cal.Rptr.2d 801 (2001)
+  quality: VERY_GOOD
+- name: Curry v. Superior Court, 20 Cal.App.4th 180, 24 Cal.Rptr.2d 495 (1993)
+  quality: GOOD
+- name: Ellis v. D'Angelo, 116 Cal.App.2d 310, 253 P.2d 675 (1953)
+  quality: GOOD
+- name: In re D.C., 188 Cal.App.4th 978, 115 Cal.Rptr.3d 837 (2010)
+  quality: GOOD
+- name: In re Jeffrey M., 141 Cal.App.4th 1017, 46 Cal.Rptr.3d 533 (2006)
+  quality: GOOD
+- name: In re K.G. (Apr. 5, 2013, E056026, E056028)
+  quality: GOOD
+- name: Jamshid-Negad v. Kessler, 15 Cal.App.4th 1704, 19 Cal.Rptr.2d 621 (1993)
+  quality: GOOD
+- name: Martin v. Barrett, 120 Cal.App.2d 625, 261 P.2d 551 (1953)
+  quality: GOOD
+- name: Poncher v. Brackett, 246 Cal.App.2d 769, 55 Cal.Rptr. 59 (1966)
+  quality: GOOD
+- name: Reida v. Lund, 18 Cal.App.3d 698, 96 Cal.Rptr. 102 (1971)
+  quality: GOOD
+- name: Robertson v. Wentz, 187 Cal.App.3d 1281, 232 Cal.Rptr. 634 (1986)
+  quality: GOOD
+- name: Smith v. Freund, 192 Cal.App.4th 466, 121 Cal.Rptr.3d 427 (2011)
+  quality: GOOD
+- name: Weisbart v. Flohr, 260 Cal.App.2d 281, 67 Cal.Rptr. 114 (1968)
+  quality: GOOD
+- name: Armstrong World Industries, Inc. v. Aetna Casualty & Surety Co., 45 Cal.App.4th
+    1, 52 Cal.Rptr.2d 690 (1996)
+  quality: BAD
+- name: Borer v. American Airlines, Inc., 19 Cal.3d 441, 138 Cal.Rptr. 302, 563 P.2d
+    858 (1977)
+  quality: BAD
+- name: Cabral v. Martins, 177 Cal.App.4th 471, 99 Cal.Rptr.3d 394 (2009)
+  quality: BAD
+- name: City and County of San Francisco v. Thompson, 172 Cal.App.3d 652, 218 Cal.Rptr.
+    445 (1985)
+  quality: BAD
+- name: Guivi v. Spectrum Club Holding Co. (Apr. 28, 2011, B222639)
+  quality: BAD
+- name: Huntingdon Life Sciences, Inc. v. Stop Huntingdon Animal Cruelty USA, Inc.,
+    129 Cal.App.4th 1228, 29 Cal.Rptr.3d 521 (2005)
+  quality: BAD
+- name: In re Ariana R. (Dec. 23, 2014, A140248)
+  quality: BAD
+- name: In re Gladys R., 1 Cal.3d 855, 83 Cal.Rptr. 671, 464 P.2d 127 (1970)
+  quality: BAD
+- name: In re Lilah R. (Nov. 20, 2014, G050126)
+  quality: BAD
+- name: In re V.T. (Nov. 6, 2014, H040149)
+  quality: BAD
+- name: Iraheta v. Superior Court, 70 Cal.App.4th 1500, 83 Cal.Rptr.2d 471 (1999)
+  quality: BAD
+- name: People v. Harvey, 25 Cal.3d 754, 159 Cal.Rptr. 696, 602 P.2d 396 (1979)
+  quality: BAD
+- name: People v. Marsden, 2 Cal.3d 118, 84 Cal.Rptr. 156, 465 P.2d 44 (1970)
+  quality: BAD
+- name: People v. Mendoza, 18 Cal.4th 1114, 77 Cal.Rptr.2d 428, 959 P.2d 735 (1998)
+  quality: BAD
+- name: People v. Pensinger, 52 Cal.3d 1210, 278 Cal.Rptr. 640, 805 P.2d 899 (1991)
+  quality: BAD
+- name: People v. Watson, 46 Cal.2d 818, 299 P.2d 243 (1956)
+  quality: BAD
+- name: Safeco Ins. Co. v. Robert S., 26 Cal.4th 758, 110 Cal.Rptr.2d 844, 28 P.3d
+    889 (2001)
+  quality: BAD
+- name: Sheaffer v. Scott Valley Union Sch. Dist. (Dec. 6, 2012, C069156)
+  quality: BAD
+- name: Walker v. Superior Court, 47 Cal.3d 112, 253 Cal.Rptr. 1, 763 P.2d 852 (1988)
+  quality: BAD
+- name: Williams v. Garcetti, 5 Cal.4th 561, 20 Cal.Rptr.2d 341, 853 P.2d 507 (1993)
+  quality: BAD
+- name: Zuniga v. Housing Authority, 41 Cal.App.4th 82, 48 Cal.Rptr.2d 353 (1995)
+  quality: BAD

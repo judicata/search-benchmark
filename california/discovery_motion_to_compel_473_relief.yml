@@ -1,0 +1,46 @@
+query: discovery motion to compel 473 relief
+relevance_criteria: Jerry's Shell and Zellerino are the most cited and are BEST. Other
+  cases dealing with a party's motion for 473 relief after a failure to satisfy a
+  discovery motion are VERY_GOOD. Cases where the 473 relief is sought because the
+  discovery was not permitted (and the party is seeking discovery) are GOOD. Non 473
+  relief cases, and cases not relating to discovery are BAD.
+cases:
+- name: Jerry's Shell v. Equilon Enterprises, LLC, 134 Cal.App.4th 1058, 36 Cal.Rptr.3d
+    637 (2005)
+  quality: BEST
+- name: Zellerino v. Brown, 235 Cal.App.3d 1097, 1 Cal.Rptr.2d 222 (1991)
+  quality: BEST
+- name: Carroll v. Abbott Laboratories, Inc., 32 Cal.3d 892, 187 Cal.Rptr. 592, 654
+    P.2d 775 (1982)
+  quality: VERY_GOOD
+- name: Dolzhenko v. Valley Temps, Inc. (Aug. 24, 2010, B207346)
+  quality: VERY_GOOD
+- name: Hasso v. J.S.B. Fin. Corp. (Aug. 3, 2011, E049854)
+  quality: VERY_GOOD
+- name: Huh v. Wang, 158 Cal.App.4th 1406, 71 Cal.Rptr.3d 65 (2007)
+  quality: VERY_GOOD
+- name: Johnson v. Pratt & Whitney Canada, Inc., 28 Cal.App.4th 613, 34 Cal.Rptr.2d
+    26 (1994)
+  quality: VERY_GOOD
+- name: Lang v. Hochman, 77 Cal.App.4th 1225, 92 Cal.Rptr.2d 322 (2000)
+  quality: VERY_GOOD
+- name: Matera v. McLeod, 145 Cal.App.4th 44, 51 Cal.Rptr.3d 331 (2006)
+  quality: VERY_GOOD
+- name: Milton v. Perceptual Development Corp., 53 Cal.App.4th 861, 62 Cal.Rptr.2d
+    98 (1997)
+  quality: VERY_GOOD
+- name: Rodriguez v. Brill, 234 Cal.App.4th 715, 184 Cal.Rptr.3d 265 (2015)
+  quality: VERY_GOOD
+- name: Hetrick v. Deutsche Bank Nat'l Trust Co. (Nov. 24, 2014, F067675)
+  quality: GOOD
+- name: Rawnsley v. Superior Court, 183 Cal.App.3d 86, 227 Cal.Rptr. 806 (1986)
+  quality: GOOD
+- name: Deyo v. Kilbourne, 84 Cal.App.3d 771, 149 Cal.Rptr. 499 (1978)
+  quality: BAD
+- name: New Albertsons, Inc. v. Superior Court, 168 Cal.App.4th 1403, 86 Cal.Rptr.3d
+    457 (2008)
+  quality: BAD
+- name: Rappleyea v. Campbell, 8 Cal.4th 975, 35 Cal.Rptr.2d 669, 884 P.2d 126 (1994)
+  quality: BAD
+- name: Stafford v. Mach, 64 Cal.App.4th 1174, 75 Cal.Rptr.2d 809 (1998)
+  quality: BAD

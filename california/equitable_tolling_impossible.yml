@@ -1,0 +1,62 @@
+query: '"equitable tolling" impossible'
+relevance_criteria: Cases involving whether an action should be equitably tolled due
+  to impossibility are BEST. Cases about equitable tolling that recite or discuss
+  impossibility to defend (but don't seem to involve the issue) are VERY_GOOD. Cases
+  involving equitable tolling and mentioning the term "impossible" are GOOD. Cases
+  not involving equitable tolling or mentioning impossibility are BAD.
+cases:
+- name: Admiralty Fund v. Peerless Ins. Co., 143 Cal.App.3d 379, 191 Cal.Rptr. 753
+    (1983)
+  quality: BEST
+- name: Gomez v. Dole Food Company, Inc. (Oct. 27, 2011, B228876)
+  quality: BEST
+- name: Mitchell v. Frank R. Howard Memorial Hospital, 6 Cal.App.4th 1396, 8 Cal.Rptr.2d
+    521 (1992)
+  quality: BEST
+- name: Rodriguez v. Superior Court, 176 Cal.App.4th 1461, 98 Cal.Rptr.3d 728 (2009)
+  quality: BEST
+- name: Stalberg v. Western Title Ins. Co., 27 Cal.App.4th 925, 32 Cal.Rptr.2d 750
+    (1994)
+  quality: BEST
+- name: Thomas v. Gilliland, 95 Cal.App.4th 427, 115 Cal.Rptr.2d 520 (2002)
+  quality: BEST
+- name: Addison v. State of California, 21 Cal.3d 313, 146 Cal.Rptr. 224, 578 P.2d
+    941 (1978)
+  quality: VERY_GOOD
+- name: Garabedian v. Skochko, 232 Cal.App.3d 836, 283 Cal.Rptr. 802 (1991)
+  quality: VERY_GOOD
+- name: Lefkowitz v. Wirta (Apr. 1, 2015, B250177)
+  quality: VERY_GOOD
+- name: Rangel v. Fresno Police Dep't (Jan. 14, 2011, F058830)
+  quality: VERY_GOOD
+- name: Structural Steel Fabricators, Inc. v. City of Orange, 40 Cal.App.4th 459,
+    46 Cal.Rptr.2d 867 (1995)
+  quality: VERY_GOOD
+- name: 65 Butterfield v. Chicago Title Ins. Co., 70 Cal.App.4th 1047, 83 Cal.Rptr.2d
+    40 (1999)
+  quality: GOOD
+- name: Prudential-LMI Com. Insurance v. Superior Court, 51 Cal.3d 674, 274 Cal.Rptr.
+    387, 798 P.2d 1230 (1990)
+  quality: GOOD
+- name: Richards v. CH2M Hill, Inc., 26 Cal.4th 798, 111 Cal.Rptr.2d 87, 29 P.3d 175
+    (2001)
+  quality: GOOD
+- name: Tarkington v. California Unemployment Ins. Appeals Bd., 172 Cal.App.4th 1494,
+    92 Cal.Rptr.3d 131 (2009)
+  quality: GOOD
+- name: Grell v. Laci Le Beau Corp., 73 Cal.App.4th 1300, 87 Cal.Rptr.2d 358 (1999)
+  quality: BAD
+- name: Hopkins v. Kedzierski, 225 Cal.App.4th 736, 170 Cal.Rptr.3d 551 (2014)
+  quality: BAD
+- name: Jolly v. Eli Lilly & Co., 44 Cal.3d 1103, 245 Cal.Rptr. 658, 751 P.2d 923
+    (1988)
+  quality: BAD
+- name: Kolani v. Gluska, 64 Cal.App.4th 402, 75 Cal.Rptr.2d 257 (1998)
+  quality: BAD
+- name: Lantzy v. Centex Homes, 31 Cal.4th 363, 2 Cal.Rptr.3d 655, 73 P.3d 517 (2003)
+  quality: BAD
+- name: McDonald v. Antelope Valley Community College Dist., 45 Cal.4th 88, 84 Cal.Rptr.3d
+    734, 194 P.3d 1026 (2008)
+  quality: BAD
+- name: Wood v. Elling Corp., 20 Cal.3d 353, 142 Cal.Rptr. 696, 572 P.2d 755 (1977)
+  quality: BAD

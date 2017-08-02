@@ -1,0 +1,65 @@
+query: failure to mitigate termination when employee did not apply for jobs online
+relevance_criteria: "GOOD results are failure to mitigate termination cases. BEST\
+  \ results are those that discuss not applying for jobs online to mitigate damages.\
+  \ VERY_GOOD results are those that discuss applying for jobs online to mitigate\
+  \ damages. BAD results are not employment mitigation of damages cases.\r\n\r\nImprovements\
+  \ will come from boosting on (fail! /s mitigat!) and (appl! /s job!)"
+cases:
+- name: Blythe v. Cohn (Dec. 7, 2009, E046711)
+  quality: BEST
+- name: Chavez v. Armory Ctr. for the Arts (Sep. 18, 2014, B242205)
+  quality: VERY_GOOD
+- name: California School Employees Assn. v. Personnel Commission, 30 Cal.App.3d 241,
+    106 Cal.Rptr. 283 (1973)
+  quality: GOOD
+- name: Candari v. Los Angeles Unified School Dist., 193 Cal.App.4th 402 (2011)
+  quality: GOOD
+- name: Cordero-Sacks v. Housing Authority of City of Los Angeles, 200 Cal.App.4th
+    1267, 134 Cal.Rptr.3d 883 (2011)
+  quality: GOOD
+- name: Foley v. Interactive Data Corp., 47 Cal.3d 654, 254 Cal.Rptr. 211, 765 P.2d
+    373 (1988)
+  quality: GOOD
+- name: Kao v. University of San Francisco, 229 Cal.App.4th 437, 177 Cal.Rptr.3d 145
+    (2014)
+  quality: GOOD
+- name: Martin v. Santa Clara Unified School Dist., 102 Cal.App.4th 241, 125 Cal.Rptr.2d
+    337 (2002)
+  quality: GOOD
+- name: Mayer v. Multistate Legal Studies, Inc., 52 Cal.App.4th 1428, 61 Cal.Rptr.2d
+    336 (1997)
+  quality: GOOD
+- name: Mize-Kurzman v. Marin Community College Dist., 202 Cal.App.4th 832, 136 Cal.Rptr.3d
+    259 (2012)
+  quality: GOOD
+- name: Parker v. Twentieth Century-Fox Film Corp., 3 Cal.3d 176, 89 Cal.Rptr. 737,
+    474 P.2d 689, 44 A.L.R.3d 615 (1970)
+  quality: GOOD
+- name: Riverside Sheriffs' Ass'n v. County of Riverside (Apr. 23, 2015, E057647)
+  quality: GOOD
+- name: State Dept. of Health Services v. Superior Court, 31 Cal.4th 1026, 6 Cal.Rptr.3d
+    441, 79 P.3d 556 (2003)
+  quality: GOOD
+- name: Villacorta v. Cemex Cement, Inc., 221 Cal.App.4th 1425, 165 Cal.Rptr.3d 441
+    (2013)
+  quality: GOOD
+- name: West v. Bechtel Corp., 96 Cal.App.4th 966, 117 Cal.Rptr.2d 647 (2002)
+  quality: GOOD
+- name: Armendariz v. Foundation Health Psychcare Services, Inc., 24 Cal.4th 83, 99
+    Cal.Rptr.2d 745, 6 P.3d 669 (2000)
+  quality: BAD
+- name: Guz v. Bechtel National, Inc., 24 Cal.4th 317, 100 Cal.Rptr.2d 352, 8 P.3d
+    1089 (2000)
+  quality: BAD
+- name: Moran v. Qwest Communications International, Inc. (Aug. 27, 2012, A128840)
+  quality: BAD
+- name: People v. Pearson, 56 Cal.4th 393, 154 Cal.Rptr.3d 541, 297 P.3d 793 (2013)
+  quality: BAD
+- name: Robin Singh Educ. Services, Inc. v. Blueprint Test Preparation, L.L.C. (Feb.
+    20, 2013, B204775, B211422, B218775)
+  quality: BAD
+- name: Sacramento Mun. Util. Dist. v. FCC Corp. (Jul. 9, 2012, C064248)
+  quality: BAD
+- name: Sonic-Calabasas A, Inc. v. Moreno, 57 Cal.4th 1109, 163 Cal.Rptr.3d 269, 311
+    P.3d 184 (2013)
+  quality: BAD

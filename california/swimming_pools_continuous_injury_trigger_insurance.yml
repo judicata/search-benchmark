@@ -1,0 +1,57 @@
+query: swimming pools continuous injury trigger insurance
+relevance_criteria: 'California Union is the case applying the "continuous injury
+  trigger" to swimming pool damage, so it is BEST. The VERY_GOOD cases mention or
+  discuss California Union and mention the swimming pool. The GOOD results are continuous
+  injury trigger cases that mention swimming pools. Other cases that don''t involve
+  continuous injury triggers and swimming pools are BAD. '
+cases:
+- name: California Union Ins. Co. v. Landmark Ins. Co., 145 Cal.App.3d 462, 193 Cal.Rptr.
+    461 (1983)
+  quality: BEST
+- name: Armstrong World Industries, Inc. v. Aetna Casualty & Surety Co., 45 Cal.App.4th
+    1, 52 Cal.Rptr.2d 690 (1996)
+  quality: VERY_GOOD
+- name: Home Ins. Co. v. Landmark Ins. Co., 205 Cal.App.3d 1388, 253 Cal.Rptr. 277
+    (1988)
+  quality: VERY_GOOD
+- name: Montrose Chemical Corp. v. Admiral Ins. Co., 10 Cal.4th 645, 42 Cal.Rptr.2d
+    324, 897 P.2d 1 (1995)
+  quality: VERY_GOOD
+- name: Pepperell v. Scottsdale Ins. Co., 62 Cal.App.4th 1045, 73 Cal.Rptr.2d 164
+    (1998)
+  quality: VERY_GOOD
+- name: Prudential-LMI Com. Insurance v. Superior Court, 51 Cal.3d 674, 274 Cal.Rptr.
+    387, 798 P.2d 1230 (1990)
+  quality: VERY_GOOD
+- name: Harbor Ins. Co. v. Central National Ins. Co., 165 Cal.App.3d 1029, 211 Cal.Rptr.
+    902 (1985)
+  quality: GOOD
+- name: Safeco Ins. Co. of America v. Fireman's Fund Ins. Co., 148 Cal.App.4th 620,
+    55 Cal.Rptr.3d 844 (2007)
+  quality: GOOD
+- name: Century Indemnity Co. v. Hearrean, 98 Cal.App.4th 734, 120 Cal.Rptr.2d 66
+    (2002)
+  quality: BAD
+- name: Discover Specialty Ins. Co. v. Certain Underwriters at Lloyd's London (Sep.
+    17, 2008, B205333)
+  quality: BAD
+- name: FMC Corp. v. Plaisted & Companies, 61 Cal.App.4th 1132, 72 Cal.Rptr.2d 467
+    (1998)
+  quality: BAD
+- name: Lyons v. Fire Ins. Exchange, 161 Cal.App.4th 880, 74 Cal.Rptr.3d 649 (2008)
+  quality: BAD
+- name: Ochoa v. Superior Court, 39 Cal.3d 159, 216 Cal.Rptr. 661, 703 P.2d 1 (1985)
+  quality: BAD
+- name: Sabella v. Wisler, 59 Cal.2d 21, 27 Cal.Rptr. 689, 377 P.2d 889 (1963)
+  quality: BAD
+- name: Santos v. Peerless Ins. Co. (Apr. 30, 2009, A121071)
+  quality: BAD
+- name: State Farm Fire & Casualty Co. v. Superior Court, 164 Cal.App.4th 317, 78
+    Cal.Rptr.3d 828 (2008)
+  quality: BAD
+- name: State of California v. Continental Ins. Co., 55 Cal.4th 186, 145 Cal.Rptr.3d
+    1, 281 P.3d 1000 (2012)
+  quality: BAD
+- name: Stonelight Tile, Inc. v. California Ins. Guarantee Assn., 150 Cal.App.4th
+    19, 58 Cal.Rptr.3d 74 (2007)
+  quality: BAD

@@ -1,0 +1,69 @@
+query: attorney malpractice beneficiary irrevocable trust
+relevance_criteria: Attorney malpractice cases where the beneficiary sues over an
+  irrevocable trust are BEST. Other legal malpractice cases where the beneficiaries
+  of a trust sue are VERY_GOOD. Other legal malpractice cases are GOOD. The remaining
+  cases are BAD.
+cases:
+- name: Dudley v. Morris (Aug. 25, 2009, H032889)
+  quality: BEST
+- name: Estate of Hazewinkel (Dec. 9, 2011, D058282)
+  quality: BEST
+- name: Estate of Hazewinkel (May 29, 2009, D053321)
+  quality: BEST
+- name: Gaggero v. Knapp, Petersen & Clarke (Nov. 7, 2014, B241675)
+  quality: BEST
+- name: Gridley v. Gridley, 166 Cal.App.4th 1562, 83 Cal.Rptr.3d 715 (2008)
+  quality: BEST
+- name: Hazewinkel v. Macgurn (May 8, 2009, D053432)
+  quality: BEST
+- name: Biakanja v. Irving, 49 Cal.2d 647, 320 P.2d 16, 65 A.L.R.2d 1358 (1958)
+  quality: VERY_GOOD
+- name: Borissoff v. Taylor & Faust, 33 Cal.4th 523, 15 Cal.Rptr.3d 735, 93 P.3d 337
+    (2004)
+  quality: VERY_GOOD
+- name: Bucquet v. Livingston, 57 Cal.App.3d 914, 129 Cal.Rptr. 514 (1976)
+  quality: VERY_GOOD
+- name: Chang v. Lederman, 172 Cal.App.4th 67, 90 Cal.Rptr.3d 758 (2009)
+  quality: VERY_GOOD
+- name: Goldberg v. Frye, 217 Cal.App.3d 1258, 266 Cal.Rptr. 483 (1990)
+  quality: VERY_GOOD
+- name: Heyer v. Flaig, 70 Cal.2d 223, 74 Cal.Rptr. 225, 449 P.2d 161 (1969)
+  quality: VERY_GOOD
+- name: Lombardo v. Huysentruyt, 91 Cal.App.4th 656, 110 Cal.Rptr.2d 691 (2001)
+  quality: VERY_GOOD
+- name: Lucas v. Hamm, 56 Cal.2d 583, 15 Cal.Rptr. 821, 364 P.2d 685 (1961)
+  quality: VERY_GOOD
+- name: Moore v. Anderson Zeigler Disharoon Gallagher & Gray, 109 Cal.App.4th 1287,
+    135 Cal.Rptr.2d 888 (2003)
+  quality: VERY_GOOD
+- name: Osornio v. Weingarten, 124 Cal.App.4th 304, 21 Cal.Rptr.3d 246 (2004)
+  quality: VERY_GOOD
+- name: Radovich v. Locke-Paddon, 35 Cal.App.4th 946, 41 Cal.Rptr.2d 573 (1995)
+  quality: VERY_GOOD
+- name: Gurkewitz v. Haberman, 137 Cal.App.3d 328, 187 Cal.Rptr. 14 (1982)
+  quality: GOOD
+- name: Horne v. Peckham, 97 Cal.App.3d 404, 158 Cal.Rptr. 714 (1979)
+  quality: GOOD
+- name: ITT Small Business Finance Corp. v. Niles, 9 Cal.4th 245, 36 Cal.Rptr.2d 552,
+    885 P.2d 965 (1994)
+  quality: GOOD
+- name: Mitani v. Mitani (Sep. 30, 2010, G042200)
+  quality: GOOD
+- name: Neel v. Magana, Olney, Levy, Cathcart & Gelfand, 6 Cal.3d 176, 98 Cal.Rptr.
+    837, 491 P.2d 421 (1971)
+  quality: GOOD
+- name: Richelle L. v. Roman Catholic Archbishop, 106 Cal.App.4th 257, 130 Cal.Rptr.2d
+    601 (2003)
+  quality: GOOD
+- name: Smith v. Lewis, 13 Cal.3d 349, 118 Cal.Rptr. 621, 530 P.2d 589, 78 A.L.R.3d
+    231 (1975)
+  quality: GOOD
+- name: Bily v. Arthur Young & Co., 3 Cal.4th 370, 11 Cal.Rptr.2d 51, 834 P.2d 745
+    (1992)
+  quality: BAD
+- name: In re Marriage of Sargent (Oct. 21, 2010, F057141)
+  quality: BAD
+- name: Laycock v. Hammer, 141 Cal.App.4th 25, 44 Cal.Rptr.3d 921 (2006)
+  quality: BAD
+- name: Stewart v. Towse, 203 Cal.App.3d 425, 249 Cal.Rptr. 622 (1988)
+  quality: BAD

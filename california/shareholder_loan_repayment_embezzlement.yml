@@ -1,0 +1,42 @@
+query: shareholder loan repayment embezzlement
+relevance_criteria: This is a trickier query. Cases where the defendant was a shareholder
+  charged with embezzlement in transactions that involved loans/repayments are BEST.
+  Other cases where such allegations are at issue (e.g., defamation cases) are VERY_GOOD.
+  Other cases with those words are GOOD. The remaining cases are BAD.
+cases:
+- name: People v. Smith, 155 Cal.App.3d 1103, 203 Cal.Rptr. 196 (1984)
+  quality: BEST
+- name: Sahni v. Yim (Sep. 28, 2007, G033974)
+  quality: BEST
+- name: International Space Optics, S.A. v. Hamasaki (Dec. 14, 2012, G045656)
+  quality: VERY_GOOD
+- name: South Beverly Wilshire Jewelry & Loan v. Superior Court, 121 Cal.App.4th 74,
+    16 Cal.Rptr.3d 710 (2004)
+  quality: VERY_GOOD
+- name: Dodds v. Meng (Oct. 23, 2012, D058766, D059409)
+  quality: GOOD
+- name: Earl's Mail Service, Inc. v. Toone (Aug. 6, 2008, C054285)
+  quality: GOOD
+- name: Elssmann v. California Preparatory College, Inc. (Jan. 29, 2016, E060395)
+  quality: GOOD
+- name: Sanders v. Langmuir-Logan (May 14, 2014, G047997)
+  quality: GOOD
+- name: Tabatabai v. Emerald Estate Escrow, Inc. (Sep. 23, 2011, B224059)
+  quality: GOOD
+- name: Cunningham v. Magidow, 219 Cal.App.4th 298, 161 Cal.Rptr.3d 671 (2013)
+  quality: BAD
+- name: Happy Valley Tel. Co. v. Public Utilities Comm'n (Jul. 5, 2011, F061259)
+  quality: BAD
+- name: Jones v. H.F. Ahmanson & Co., 1 Cal.3d 93, 81 Cal.Rptr. 592, 460 P.2d 464
+    (1969)
+  quality: BAD
+- name: Mueller v. MacBan, 62 Cal.App.3d 258, 132 Cal.Rptr. 222 (1976)
+  quality: BAD
+- name: Peterson Development Co. v. Torrey Pines Bank, 233 Cal.App.3d 103, 284 Cal.Rptr.
+    367 (1991)
+  quality: BAD
+- name: Price v. Wells Fargo Bank, 213 Cal.App.3d 465, 261 Cal.Rptr. 735 (1989)
+  quality: BAD
+- name: Wyatt v. Union Mortgage Co., 24 Cal.3d 773, 157 Cal.Rptr. 392, 598 P.2d 45
+    (1979)
+  quality: BAD

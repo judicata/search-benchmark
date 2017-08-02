@@ -1,0 +1,40 @@
+query: moore marsden
+relevance_criteria: "Looking for a discussion of the Moore/Marsden rule. Moore and\
+  \ Marsden are the two named, seminal cases, so they are BEST.\r\nVERY_GOOD cases\
+  \ explain the rule and discuss it in a family case. GOOD case explain the rule discuss\
+  \ it in a non-family case\r\nBAD cases are unrelated to Moore/Marsden."
+cases:
+- name: In re Marriage of Marsden, 130 Cal.App.3d 426 (1982)
+  quality: BEST
+- name: In re Marriage of Moore, 28 Cal.3d 366, 168 Cal.Rptr. 662, 618 P.2d 208 (1980)
+  quality: BEST
+- name: Bono v. Clark, 103 Cal.App.4th 1409, 128 Cal.Rptr.2d 31 (2002)
+  quality: VERY_GOOD
+- name: In re Marriage of Allen, 96 Cal.App.4th 497, 116 Cal.Rptr.2d 887 (2002)
+  quality: VERY_GOOD
+- name: In re Marriage of Branco, 47 Cal.App.4th 1621, 55 Cal.Rptr.2d 493 (1996)
+  quality: VERY_GOOD
+- name: In re Marriage of Geraci, 144 Cal.App.4th 1278, 51 Cal.Rptr.3d 234 (2006)
+  quality: VERY_GOOD
+- name: In re Marriage of Girouard and Frazier (Sep. 12, 2012, A131286)
+  quality: VERY_GOOD
+- name: In re Marriage of Kahan, 174 Cal.App.3d 63, 219 Cal.Rptr. 700 (1985)
+  quality: VERY_GOOD
+- name: In re Marriage of Moore and Bowlin (Feb. 28, 2017, B268390)
+  quality: VERY_GOOD
+- name: In re Marriage of Nelson, 139 Cal.App.4th 1546, 44 Cal.Rptr.3d 52 (2006)
+  quality: VERY_GOOD
+- name: In re Marriage of Perez and Cervantes (May 15, 2007, B189370)
+  quality: VERY_GOOD
+- name: In re Marriage of Sherman, 133 Cal.App.4th 795, 35 Cal.Rptr.3d 137 (2005)
+  quality: VERY_GOOD
+- name: Patrick v. Alacer Corp., 201 Cal.App.4th 1326, 136 Cal.Rptr.3d 669 (2011)
+  quality: GOOD
+- name: In re Marriage of Dekker, 17 Cal.App.4th 842, 21 Cal.Rptr.2d 642 (1993)
+  quality: BAD
+- name: In re Marriage of Wolfe, 91 Cal.App.4th 962, 110 Cal.Rptr.2d 921 (2001)
+  quality: BAD
+- name: People v. Marsden, 2 Cal.3d 118, 84 Cal.Rptr. 156, 465 P.2d 44 (1970)
+  quality: BAD
+- name: People v. Moore, 47 Cal.3d 63, 252 Cal.Rptr. 494, 762 P.2d 1218 (1988)
+  quality: BAD

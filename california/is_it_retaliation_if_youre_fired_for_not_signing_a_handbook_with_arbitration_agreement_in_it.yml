@@ -1,0 +1,77 @@
+query: is it retaliation if you're fired for not signing a handbook with arbitration
+  agreement in it?
+relevance_criteria: "This is a good query - difficult, with very few on point results.\
+  \ Most case results are about refusal to enforce, not sign.\r\n\r\nBEST cases are\
+  \ about someone being fired for not signing arbitration agreement and suing. Note\
+  \ (lagatree is actually about wrongful termination and not retaliation, but it's\
+  \ close enough to be a great result). VERY_GOOD cases cite discuss BEST cases for\
+  \ this rule.\r\n\r\nGOOD cases mention arbitration agreements and termination, but\
+  \ nothing about a refusal to sign. BAD cases don't no mention retaliation, termination\
+  \ or of arbitration agreement.\r\n"
+cases:
+- name: Lagatree v. Luce, Forward, Hamilton & Scripps, 74 Cal.App.4th 1105, 88 Cal.Rptr.2d
+    664 (1999)
+  quality: BEST
+- name: Compton v. Superior Court, 214 Cal.App.4th 873, 154 Cal.Rptr.3d 413 (2013)
+  quality: VERY_GOOD
+- name: Craig v. Brown & Root, Inc., 84 Cal.App.4th 416, 100 Cal.Rptr.2d 818 (2000)
+  quality: VERY_GOOD
+- name: Marenco v. DirecTV LLC, 233 Cal.App.4th 1409, 183 Cal.Rptr.3d 587 (2015)
+  quality: VERY_GOOD
+- name: McCoy v. Superior Court, 87 Cal.App.4th 354, 104 Cal.Rptr.2d 504 (2001)
+  quality: VERY_GOOD
+- name: Walia v. Aetna, Inc., 93 Cal.App.4th 1213, 113 Cal.Rptr.2d 737 (2001)
+  quality: VERY_GOOD
+- name: 24 Hour Fitness, Inc. v. Superior Court, 66 Cal.App.4th 1199, 78 Cal.Rptr.2d
+    533 (1998)
+  quality: GOOD
+- name: Ajamian v. CantorCO2e, L.P., 203 Cal.App.4th 771, 137 Cal.Rptr.3d 773 (2012)
+  quality: GOOD
+- name: Armendariz v. Foundation Health Psychcare Services, Inc., 24 Cal.4th 83, 99
+    Cal.Rptr.2d 745, 6 P.3d 669 (2000)
+  quality: GOOD
+- name: Asmus v. Pacific Bell, 23 Cal.4th 1, 96 Cal.Rptr.2d 179, 999 P.2d 71 (2000)
+  quality: GOOD
+- name: Avery v. Integrated Healthcare Holdings, Inc., 218 Cal.App.4th 50, 159 Cal.Rptr.3d
+    444 (2013)
+  quality: GOOD
+- name: Burke v. Award, Inc. (Jun. 28, 2011, G042606)
+  quality: GOOD
+- name: Foley v. Interactive Data Corp., 47 Cal.3d 654, 254 Cal.Rptr. 211, 765 P.2d
+    373 (1988)
+  quality: GOOD
+- name: Gentry v. Superior Court, 42 Cal.4th 443, 64 Cal.Rptr.3d 773, 165 P.3d 556
+    (2007)
+  quality: GOOD
+- name: Gorlach v. Sports Club Co., 209 Cal.App.4th 1497, 148 Cal.Rptr.3d 71 (2012)
+  quality: GOOD
+- name: Hargrove v. Kitahara Pontiac GMC Buick, Inc. (Feb. 1, 2011, F059561)
+  quality: GOOD
+- name: Leos v. Darden Restaurants, Inc., 217 Cal.App.4th 473, 158 Cal.Rptr.3d 384
+    (2013)
+  quality: GOOD
+- name: Martinez v. Scott Specialty Gases, Inc., 83 Cal.App.4th 1236, 100 Cal.Rptr.2d
+    403 (2000)
+  quality: GOOD
+- name: Mitri v. Arnel Management Co., 157 Cal.App.4th 1164, 69 Cal.Rptr.3d 223 (2007)
+  quality: GOOD
+- name: Morales v. Noritz Am. Corp. (Mar. 28, 2012, G044749)
+  quality: GOOD
+- name: Moran v. Superior Court (Nov. 16, 2011, F061801)
+  quality: GOOD
+- name: Romo v. Y-3 Holdings, Inc., 87 Cal.App.4th 1153, 105 Cal.Rptr.2d 208 (2001)
+  quality: GOOD
+- name: Serafin v. Balco Properties Ltd., LLC, 235 Cal.App.4th 165 (2015)
+  quality: GOOD
+- name: Soldinger v. Northwest Airlines, Inc., 51 Cal.App.4th 345, 58 Cal.Rptr.2d
+    747 (1996)
+  quality: GOOD
+- name: Sparks v. Vista Del Mar Child & Family Services, 207 Cal.App.4th 1511, 145
+    Cal.Rptr.3d 318 (2012)
+  quality: GOOD
+- name: Muhammad v. Islamic Society of Orange County (Mar. 28, 2008, G036534, G036986,
+    G037172)
+  quality: BAD
+- name: Muller v. Automobile Club of So. California, 61 Cal.App.4th 431, 71 Cal.Rptr.2d
+    573 (1998)
+  quality: BAD

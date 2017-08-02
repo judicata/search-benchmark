@@ -1,0 +1,64 @@
+query: cpa expert witness damages
+relevance_criteria: Not too much specificity, so BEST cases are those published cases
+  where a CPA was an expert witness with regard to damages. VERY_GOOD cases are unpublished
+  cases where a CPA was an expert witness with regard to damages. GOOD cases discuss
+  or have a CPA expert witness aspect. BAD cases do not have a CPA expert witness
+  on damages.
+cases:
+- name: Bell v. Farmers Ins. Exchange, 115 Cal.App.4th 715, 9 Cal.Rptr.3d 544 (2004)
+  quality: BEST
+- name: Maatuk v. Guttman, 173 Cal.App.4th 1191, 93 Cal.Rptr.3d 381 (2009)
+  quality: BEST
+- name: Palm Medical Group, Inc. v. State Comp. Ins. Fund, 161 Cal.App.4th 206, 74
+    Cal.Rptr.3d 266 (2008)
+  quality: BEST
+- name: Sargon Enterprises, Inc. v. University of Southern California, 55 Cal.4th
+    747, 149 Cal.Rptr.3d 614, 288 P.3d 1237 (2012)
+  quality: BEST
+- name: Shadow Traffic Network v. Superior Court, 24 Cal.App.4th 1067, 29 Cal.Rptr.2d
+    693 (1994)
+  quality: BEST
+- name: Tevis v. Beigel, 174 Cal.App.2d 90, 344 P.2d 360 (1959)
+  quality: BEST
+- name: Trattmann v. Key (Jun. 22, 2010, B204150)
+  quality: BEST
+- name: Wells Fargo Bank v. Dowd, 139 Cal.App.2d 561, 294 P.2d 159 (1956)
+  quality: BEST
+- name: Estate of Kwong (Feb. 24, 2016, A140437, A141290)
+  quality: VERY_GOOD
+- name: Van Laningham v. Van Wormer Resorts (Oct. 15, 2008, B201951)
+  quality: VERY_GOOD
+- name: Waymon Howze Farms v. Jazer Enterprises, Inc. (Oct. 28, 2008, F053466)
+  quality: VERY_GOOD
+- name: Neumann v. Bishop, 59 Cal.App.3d 451, 130 Cal.Rptr. 786 (1976)
+  quality: GOOD
+- name: Peat, Marwick, Mitchell & Co. v. Superior Court, 200 Cal.App.3d 272, 245 Cal.Rptr.
+    873 (1988)
+  quality: GOOD
+- name: Shanley v. Shanley (Sep. 19, 2013, D062551)
+  quality: GOOD
+- name: South Bay Chevrolet v. General Motors Acceptance Corp., 72 Cal.App.4th 861,
+    85 Cal.Rptr.2d 301 (1999)
+  quality: GOOD
+- name: Taubman v. U.S. Bank (Oct. 24, 2007, B177712, B185170)
+  quality: GOOD
+- name: Asahi Kasei Pharma Corp. v. Actelion Ltd., 222 Cal.App.4th 945, 166 Cal.Rptr.3d
+    134 (2013)
+  quality: BAD
+- name: Bily v. Arthur Young & Co., 3 Cal.4th 370, 11 Cal.Rptr.2d 51, 834 P.2d 745
+    (1992)
+  quality: BAD
+- name: Computer Prepared Accounts, Inc. v. Katz, 235 Cal.App.3d 428, 286 Cal.Rptr.
+    556 (1991)
+  quality: BAD
+- name: Continental Airlines, Inc. v. McDonnell Douglas Corp., 216 Cal.App.3d 388,
+    264 Cal.Rptr. 779 (1989)
+  quality: BAD
+- name: Mattco Forge, Inc. v. Arthur Young & Co., 5 Cal.App.4th 392, 6 Cal.Rptr.2d
+    781 (1992)
+  quality: BAD
+- name: Mattco Forge, Inc. v. Arthur Young & Co., 52 Cal.App.4th 820, 60 Cal.Rptr.2d
+    780 (1997)
+  quality: BAD
+- name: Nierenhausen v. The May Dep't Stores Co. (Jun. 11, 2007, B191105)
+  quality: BAD

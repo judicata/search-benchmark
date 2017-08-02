@@ -1,0 +1,45 @@
+query: urner v. Anheuser-Busch, Inc. (1994) 7 Cal.4th 1238, 1244-1245
+relevance_criteria: Turner v. Anheuser-Busch, Inc. is the queried for case, so it
+  is BEST. Cases that cite to pages 1244-1245 of Turner are VERY_GOOD. Other cases
+  citing to Turner are GOOD.
+cases:
+- name: Turner v. Anheuser-Busch, Inc., 7 Cal.4th 1238, 32 Cal.Rptr.2d 223, 876 P.2d
+    1022 (1994)
+  quality: BEST
+- name: Casenas v. Fujisawa USA, Inc., 58 Cal.App.4th 101, 67 Cal.Rptr.2d 827 (1997)
+  quality: VERY_GOOD
+- name: Cloud v. Casey, 76 Cal.App.4th 895, 90 Cal.Rptr.2d 757 (1999)
+  quality: VERY_GOOD
+- name: Colores v. Board of Trustees, 105 Cal.App.4th 1293, 130 Cal.Rptr.2d 347 (2003)
+  quality: VERY_GOOD
+- name: Lopez v. Southwestern Community College District (Jun. 14, 2011, D057248)
+  quality: VERY_GOOD
+- name: Starzynski v. Capital Public Radio, Inc., 88 Cal.App.4th 33, 105 Cal.Rptr.2d
+    525 (2001)
+  quality: VERY_GOOD
+- name: Steele v. Youthful Offender Parole Bd., 162 Cal.App.4th 1241, 76 Cal.Rptr.3d
+    632 (2008)
+  quality: VERY_GOOD
+- name: Thompson v. Tracor Flight Systems, Inc., 86 Cal.App.4th 1156, 104 Cal.Rptr.2d
+    95 (2001)
+  quality: VERY_GOOD
+- name: Vasquez v. Franklin Management Real Estate Fund, Inc., 222 Cal.App.4th 819,
+    166 Cal.Rptr.3d 242 (2013)
+  quality: VERY_GOOD
+- name: Barton v. New United Motor Manufacturing, Inc., 43 Cal.App.4th 1200, 51 Cal.Rptr.2d
+    328 (1996)
+  quality: GOOD
+- name: Conroy v. Regents of University of California, 45 Cal.4th 1244, 91 Cal.Rptr.3d
+    532, 203 P.3d 1127 (2009)
+  quality: GOOD
+- name: Gibson v. Aro Corp., 32 Cal.App.4th 1628, 38 Cal.Rptr.2d 882 (1995)
+  quality: GOOD
+- name: Green v. Ralee Engineering Co., 19 Cal.4th 66, 78 Cal.Rptr.2d 16, 960 P.2d
+    1046 (1998)
+  quality: GOOD
+- name: Kovatch v. California Casualty Management Co., 65 Cal.App.4th 1256, 77 Cal.Rptr.2d
+    217 (1998)
+  quality: GOOD
+- name: Romano v. Rockwell Internat., Inc., 14 Cal.4th 479, 59 Cal.Rptr.2d 20, 926
+    P.2d 1114 (1996)
+  quality: GOOD

@@ -1,0 +1,68 @@
+query: Quid pro quo Sexual Harassment
+relevance_criteria: BEST results are published harassment cases where quid pro quid
+  harassment is alleged. VERY_GOOD results are unpublished harassment cases where
+  quid pro quid harassment is alleged. GOOD results are harassment cases where quid
+  pro quid harassment is mentioned, but not alleged. BAD cases are non-quid pro quo
+  cases where "quid pro quo" is not mentioned.
+cases:
+- name: Donald Schriver, Inc. v. Fair Employment & Housing Com., 220 Cal.App.3d 396,
+    230 Cal.Rptr. 620 (1986)
+  quality: BEST
+- name: Farmers Ins. Group v. County of Santa Clara, 11 Cal.4th 992, 47 Cal.Rptr.2d
+    478, 906 P.2d 440 (1995)
+  quality: BEST
+- name: Hughes v. Pair, 154 Cal.App.4th 1469, 65 Cal.Rptr.3d 619 (2007)
+  quality: BEST
+- name: Hughes v. Pair, 46 Cal.4th 1035, 95 Cal.Rptr.3d 636, 209 P.3d 963 (2009)
+  quality: BEST
+- name: Mogilefsky v. Superior Court, 20 Cal.App.4th 1409, 26 Cal.Rptr.2d 116 (1993)
+  quality: BEST
+- name: Myers v. Trendwest Resorts, Inc., 148 Cal.App.4th 1403, 56 Cal.Rptr.3d 501
+    (2007)
+  quality: BEST
+- name: Pantoja v. Anton, 198 Cal.App.4th 87, 129 Cal.Rptr.3d 384 (2011)
+  quality: BEST
+- name: Manuel v. Department of Corr. & Rehab. (Mar. 29, 2012, C062875)
+  quality: VERY_GOOD
+- name: Mascareno v. Edison Material Supply, L.L.C. (Apr. 13, 2017, B270821)
+  quality: VERY_GOOD
+- name: Ramaiya v. Pacific Coast Care Center, LLC (Sep. 20, 2011, H035769)
+  quality: VERY_GOOD
+- name: Selbach v. Barclays Global Investors, N.A. (May 29, 2008, A116514, A118096)
+  quality: VERY_GOOD
+- name: Vasquez v. Pitzer College (Apr. 14, 2014, B246426)
+  quality: VERY_GOOD
+- name: Accardi v. Superior Court, 17 Cal.App.4th 341, 21 Cal.Rptr.2d 292 (1993)
+  quality: GOOD
+- name: Beyda v. City of Los Angeles, 65 Cal.App.4th 511, 76 Cal.Rptr.2d 547 (1998)
+  quality: GOOD
+- name: Brennan v. Townsend & O'Leary Enterprises, Inc., 199 Cal.App.4th 1336, 132
+    Cal.Rptr.3d 292 (2011)
+  quality: GOOD
+- name: Doe v. Capital Cities, 50 Cal.App.4th 1038, 58 Cal.Rptr.2d 122 (1996)
+  quality: GOOD
+- name: Fisher v. San Pedro Peninsula Hospital, 214 Cal.App.3d 590, 262 Cal.Rptr.
+    842 (1989)
+  quality: GOOD
+- name: Haberman v. Cengage Learning, Inc., 180 Cal.App.4th 365, 103 Cal.Rptr.3d 19
+    (2009)
+  quality: GOOD
+- name: Herberg v. California Institute of the Arts, 101 Cal.App.4th 142, 124 Cal.Rptr.2d
+    1 (2002)
+  quality: GOOD
+- name: Johnson v. United Cerebral Palsy/Spastic Children's Foundation, 173 Cal.App.4th
+    740, 93 Cal.Rptr.3d 198 (2009)
+  quality: GOOD
+- name: Miller v. Department of Corrections, 36 Cal.4th 446, 30 Cal.Rptr.3d 797, 115
+    P.3d 77 (2005)
+  quality: GOOD
+- name: Mokler v. County of Orange, 157 Cal.App.4th 121, 68 Cal.Rptr.3d 568 (2007)
+  quality: GOOD
+- name: Sheffield v. Los Angeles County Dept. of Social Services, 109 Cal.App.4th
+    153, 134 Cal.Rptr.2d 492 (2003)
+  quality: GOOD
+- name: Weeks v. Baker & McKenzie, 63 Cal.App.4th 1128, 74 Cal.Rptr.2d 510 (1998)
+  quality: GOOD
+- name: Lyle v. Warner Brothers Television Productions, 38 Cal.4th 264, 42 Cal.Rptr.3d
+    2, 132 P.3d 211 (2006)
+  quality: BAD

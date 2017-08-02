@@ -1,0 +1,43 @@
+query: limitations on number of expert witnesses
+relevance_criteria: Monroy and Horn are the two most cited on the rule, and so they
+  are BEST. Other cases stating the rule are VERY_GOOD. Cases not stating the rule
+  are BAD.
+cases:
+- name: Horn v. General Motors Corp., 17 Cal.3d 359, 131 Cal.Rptr. 78, 551 P.2d 398
+    (1976)
+  quality: BEST
+- name: Monroy v. City of Los Angeles, 164 Cal.App.4th 248, 78 Cal.Rptr.3d 738 (2008)
+  quality: BEST
+- name: Contra Costa Cnty. Flood Control & Water Conservation Dist. v. Armstrong,
+    193 Cal.App.2d 206, 14 Cal.Rptr. 68 (1961)
+  quality: VERY_GOOD
+- name: Contreras-Madrigal v. Hollywood Presbyterian Med. Ctr. (Nov. 4, 2014, B250127)
+  quality: VERY_GOOD
+- name: In re Welding Products Cases (Nov. 10, 2010, A125296)
+  quality: VERY_GOOD
+- name: People v. Dean, 174 Cal.App.4th 186, 94 Cal.Rptr.3d 478 (2009)
+  quality: VERY_GOOD
+- name: People v. McDonald, 37 Cal.3d 351, 208 Cal.Rptr. 236, 690 P.2d 709, 46 A.L.R.4th
+    1011 (1984)
+  quality: VERY_GOOD
+- name: People v. Thammavong (Aug. 25, 2008, D050658)
+  quality: VERY_GOOD
+- name: Ramsey v. Marutamaya Ogatsu Fireworks Co., 72 Cal.App.3d 516, 140 Cal.Rptr.
+    247 (1977)
+  quality: VERY_GOOD
+- name: Scalere v. Stenson, 211 Cal.App.3d 1446, 260 Cal.Rptr. 152 (1989)
+  quality: VERY_GOOD
+- name: South Bay Chevrolet v. General Motors Acceptance Corp., 72 Cal.App.4th 861,
+    85 Cal.Rptr.2d 301 (1999)
+  quality: VERY_GOOD
+- name: Zamora v. Palitz (May 3, 2013, F062898)
+  quality: VERY_GOOD
+- name: Boston v. Penny Lane Centers, Inc., 170 Cal.App.4th 936, 88 Cal.Rptr.3d 707
+    (2009)
+  quality: BAD
+- name: Cobbs v. Grant, 8 Cal.3d 229, 104 Cal.Rptr. 505, 502 P.2d 1 (1972)
+  quality: BAD
+- name: People v. Catlin, 26 Cal.4th 81, 109 Cal.Rptr.2d 31, 26 P.3d 357 (2001)
+  quality: BAD
+- name: People v. Jones, 51 Cal.3d 294, 270 Cal.Rptr. 611, 792 P.2d 643 (1990)
+  quality: BAD

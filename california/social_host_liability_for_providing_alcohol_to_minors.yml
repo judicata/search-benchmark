@@ -1,0 +1,41 @@
+query: social host liability for providing alcohol to minors
+relevance_criteria: BEST cases are published cases where the social host is being
+  sued for providing alcohol to a minor, who subsequently injured or killed someone
+  else, or themselves. VERY_GOOD cases are unpublished cases where the social host
+  is being sued for providing alcohol to a minor, who subsequently injured or killed
+  someone else, or themselves. GOOD results are other social host liability cases.
+cases:
+- name: Allen v. Liberman, 227 Cal.App.4th 46, 173 Cal.Rptr.3d 463 (2014)
+  quality: BEST
+- name: Bass v. Pratt, 177 Cal.App.3d 129, 222 Cal.Rptr. 723 (1986)
+  quality: BEST
+- name: Cory v. Shierloh, 29 Cal.3d 430, 174 Cal.Rptr. 500, 629 P.2d 8 (1981)
+  quality: BEST
+- name: DeBolt v. Kragen Auto Supply, Inc., 182 Cal.App.3d 269, 227 Cal.Rptr. 258
+    (1986)
+  quality: BEST
+- name: Ennabe v. Manosa, 190 Cal.App.4th 707, 118 Cal.Rptr.3d 260 (2010)
+  quality: BEST
+- name: Ennabe v. Manosa, 58 Cal.4th 697, 168 Cal.Rptr.3d 440, 319 P.3d 201 (2014)
+  quality: BEST
+- name: Margaret W. v. Kelley R., 139 Cal.App.4th 141, 42 Cal.Rptr.3d 519 (2006)
+  quality: BEST
+- name: Sagadin v. Ripper, 175 Cal.App.3d 1141, 221 Cal.Rptr. 675 (1985)
+  quality: BEST
+- name: Andre v. Ingram, 164 Cal.App.3d 206, 210 Cal.Rptr. 150 (1985)
+  quality: GOOD
+- name: Biles v. Richter, 206 Cal.App.3d 325, 253 Cal.Rptr. 414 (1988)
+  quality: GOOD
+- name: Brockett v. Kitchen Boyd Motor Co., 24 Cal.App.3d 87, 100 Cal.Rptr. 752 (1972)
+  quality: GOOD
+- name: Cantor v. Anderson, 126 Cal.App.3d 124, 178 Cal.Rptr. 540 (1981)
+  quality: GOOD
+- name: Coulter v. Superior Court, 21 Cal.3d 144, 145 Cal.Rptr. 534, 577 P.2d 669
+    (1978)
+  quality: GOOD
+- name: Ghysels v. Interfraternity Council (Jan. 17, 2013, A131500)
+  quality: GOOD
+- name: Strang v. Cabrol, 37 Cal.3d 720, 209 Cal.Rptr. 347, 691 P.2d 1013 (1984)
+  quality: GOOD
+- name: Vesely v. Sager, 5 Cal.3d 153, 95 Cal.Rptr. 623, 486 P.2d 151 (1971)
+  quality: GOOD

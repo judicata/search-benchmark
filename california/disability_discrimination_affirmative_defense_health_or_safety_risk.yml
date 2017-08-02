@@ -1,0 +1,89 @@
+query: Disability Discrimination Affirmative Defense Health or Safety Risk
+relevance_criteria: Green is the major on-point case, so it is BEST. Cases dealing
+  with "health"or "safety" risks as a defense are VERY_GOOD. Other cases that mention
+  the "health" or "safety" issue are GOOD. Cases that don't mention it are BAD.
+cases:
+- name: Green v. State of California, 42 Cal.4th 254, 64 Cal.Rptr.3d 390, 165 P.3d
+    118 (2007)
+  quality: BEST
+- name: DeSaulles v. Community Hospital of the Monterey Peninsula (Jun. 29, 2011,
+    H033906)
+  quality: VERY_GOOD
+- name: Green v. State, 132 Cal.App.4th 97, 33 Cal.Rptr.3d 254 (2005)
+  quality: VERY_GOOD
+- name: Lui v. City and County of San Francisco, 211 Cal.App.4th 962, 150 Cal.Rptr.3d
+    385 (2012)
+  quality: VERY_GOOD
+- name: Murillo v. Citrus Coll. (Aug. 28, 2014, B248201)
+  quality: VERY_GOOD
+- name: Quinn v. City of Los Angeles, 84 Cal.App.4th 472, 100 Cal.Rptr.2d 914 (2000)
+  quality: VERY_GOOD
+- name: Shiejak v. Community Hospital of the Monterey Peninsula (Apr. 3, 2009, H032666)
+  quality: VERY_GOOD
+- name: Stribling v. City of Fresno (Jun. 27, 2007, F049203)
+  quality: VERY_GOOD
+- name: Wallace v. County of Stanislaus, 245 Cal.App.4th 109, 199 Cal.Rptr.3d 462
+    (2016)
+  quality: VERY_GOOD
+- name: Wills v. Superior Court, 194 Cal.App.4th 312 (2011)
+  quality: VERY_GOOD
+- name: Wills v. Superior Court, 195 Cal.App.4th 143 (2011)
+  quality: VERY_GOOD
+- name: Bagatti v. Department of Rehabilitation, 97 Cal.App.4th 344, 118 Cal.Rptr.2d
+    443 (2002)
+  quality: GOOD
+- name: Tabaie v. Stockton Unified School District (Nov. 20, 2009, C056222)
+  quality: GOOD
+- name: Aguilar v. Atlantic Richfield Co., 25 Cal.4th 826, 107 Cal.Rptr.2d 841, 24
+    P.3d 493 (2001)
+  quality: BAD
+- name: American Academy of Pediatrics v. Lungren, 16 Cal.4th 307, 66 Cal.Rptr.2d
+    210, 940 P.2d 797 (1997)
+  quality: BAD
+- name: Armendariz v. Foundation Health Psychcare Services, Inc., 24 Cal.4th 83, 99
+    Cal.Rptr.2d 745, 6 P.3d 669 (2000)
+  quality: BAD
+- name: Arteaga v. Brink's, Inc., 163 Cal.App.4th 327, 77 Cal.Rptr.3d 654 (2008)
+  quality: BAD
+- name: Brundage v. Hahn, 57 Cal.App.4th 228, 66 Cal.Rptr.2d 830 (1997)
+  quality: BAD
+- name: City of Moorpark v. Superior Court, 18 Cal.4th 1143, 77 Cal.Rptr.2d 445, 959
+    P.2d 752 (1998)
+  quality: BAD
+- name: Claudio v. Regents of University of California, 134 Cal.App.4th 224, 35 Cal.Rptr.3d
+    837 (2005)
+  quality: BAD
+- name: Guz v. Bechtel National, Inc., 24 Cal.4th 317, 100 Cal.Rptr.2d 352, 8 P.3d
+    1089 (2000)
+  quality: BAD
+- name: Harris v. City of Santa Monica, 56 Cal.4th 203, 152 Cal.Rptr.3d 392, 294 P.3d
+    49 (2013)
+  quality: BAD
+- name: Hill v. National Collegiate Athletic Assn., 7 Cal.4th 1, 26 Cal.Rptr.2d 834,
+    865 P.2d 633 (1994)
+  quality: BAD
+- name: Jensen v. Wells Fargo Bank, 85 Cal.App.4th 245, 102 Cal.Rptr.2d 55 (2000)
+  quality: BAD
+- name: Kell v. AutoZone, Inc. (Feb. 24, 2014, C064839)
+  quality: BAD
+- name: Loder v. City of Glendale, 14 Cal.4th 846, 59 Cal.Rptr.2d 696, 927 P.2d 1200
+    (1997)
+  quality: BAD
+- name: Nadaf-Rahrov v. Neiman Marcus Group, Inc., 166 Cal.App.4th 952, 83 Cal.Rptr.3d
+    190 (2008)
+  quality: BAD
+- name: Nieto v. Blue Shield of California Life & Health Ins. Co., 181 Cal.App.4th
+    60, 103 Cal.Rptr.3d 906 (2010)
+  quality: BAD
+- name: People v. Boyette, 29 Cal.4th 381, 127 Cal.Rptr.2d 544, 58 P.3d 391 (2002)
+  quality: BAD
+- name: People v. Clark, 52 Cal.4th 856, 131 Cal.Rptr.3d 225, 261 P.3d 243 (2011)
+  quality: BAD
+- name: People v. Jenkins, 22 Cal.4th 900, 95 Cal.Rptr.2d 377, 997 P.2d 1044 (2000)
+  quality: BAD
+- name: People v. Zambrano, 41 Cal.4th 1082, 63 Cal.Rptr.3d 297, 163 P.3d 4, 128 S.Ct.
+    1478 (2007)
+  quality: BAD
+- name: Tameny v. Atlantic Richfield Co., 27 Cal.3d 167, 164 Cal.Rptr. 839, 610 P.2d
+    1330, 9 A.L.R.4th 314 (1980)
+  quality: BAD

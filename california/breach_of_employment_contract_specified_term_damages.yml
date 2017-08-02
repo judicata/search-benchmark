@@ -1,0 +1,69 @@
+query: Breach of Employment Contract Specified Term Damages
+relevance_criteria: Published cases dealing with breach of an employment contract
+  for a specified term are BEST. Unpublished cases dealing with breach of an employment
+  contract for a specified term are VERY_GOOD. Cases where a specified term is alleged,
+  but not found, or discussed in the context of another case, are GOOD. Other cases
+  are BAD.
+cases:
+- name: Canavan v. College of Osteopathic Physicians & Surgeons, 73 Cal.App.2d 511,
+    166 P.2d 878 (1946)
+  quality: BEST
+- name: Chyten v. Lawrence & Howell Investments, 23 Cal.App.4th 607, 22 Cal.Rptr.2d
+    392 (1993)
+  quality: BEST
+- name: Elevator Operators etc. Union v. Newman, 30 Cal.2d 799, 186 P.2d 1 (1947)
+  quality: BEST
+- name: Holtzendorff v. Housing Authority, 250 Cal.App.2d 596, 58 Cal.Rptr. 886 (1967)
+  quality: BEST
+- name: Khajavi v. Feather River Anesthesia Medical Group, 84 Cal.App.4th 32, 100
+    Cal.Rptr.2d 627 (2000)
+  quality: BEST
+- name: Koehrer v. Superior Court, 181 Cal.App.3d 1155, 226 Cal.Rptr. 820 (1986)
+  quality: BEST
+- name: Fitzgerald v. IP Mobilenet, Inc. (Jan. 4, 2010, G041003)
+  quality: VERY_GOOD
+- name: Plikaytis v. Roth (Oct. 4, 2011, D056922)
+  quality: VERY_GOOD
+- name: Wolfson v. Tukatech, Inc. (Aug. 12, 2010, B216844)
+  quality: VERY_GOOD
+- name: Denio v. City of Huntington Beach, 22 Cal.2d 580, 140 P.2d 392, 149 A.L.R.
+    320 (1943)
+  quality: GOOD
+- name: Rochlis v. Walt Disney Co., 19 Cal.App.4th 201, 23 Cal.Rptr.2d 793 (1993)
+  quality: GOOD
+- name: Advanced Micro Devices, Inc. v. Intel Corp., 9 Cal.4th 362, 36 Cal.Rptr.2d
+    581, 885 P.2d 994 (1994)
+  quality: BAD
+- name: Anderson v. Savin Corp., 206 Cal.App.3d 356, 254 Cal.Rptr. 627 (1988)
+  quality: BAD
+- name: Cleary v. American Airlines, Inc., 111 Cal.App.3d 443, 168 Cal.Rptr. 722 (1980)
+  quality: BAD
+- name: Cotran v. Rollins Hudig Hall Internat., Inc., 17 Cal.4th 93, 69 Cal.Rptr.2d
+    900, 948 P.2d 412 (1998)
+  quality: BAD
+- name: DiGiacinto v. Ameriko-Omserv Corp., 59 Cal.App.4th 629, 69 Cal.Rptr.2d 300
+    (1997)
+  quality: BAD
+- name: Eisenberg v. Alameda Newspapers, Inc., 74 Cal.App.4th 1359, 88 Cal.Rptr.2d
+    802 (1999)
+  quality: BAD
+- name: Foley v. Interactive Data Corp., 47 Cal.3d 654, 254 Cal.Rptr. 211, 765 P.2d
+    373 (1988)
+  quality: BAD
+- name: Guz v. Bechtel National, Inc., 24 Cal.4th 317, 100 Cal.Rptr.2d 352, 8 P.3d
+    1089 (2000)
+  quality: BAD
+- name: Hejmadi v. AMFAC, Inc., 202 Cal.App.3d 525, 249 Cal.Rptr. 5 (1988)
+  quality: BAD
+- name: Khanna v. Microdata Corp., 170 Cal.App.3d 250, 215 Cal.Rptr. 860 (1985)
+  quality: BAD
+- name: Pugh v. See's Candies, Inc., 116 Cal.App.3d 311, 171 Cal.Rptr. 917 (1981)
+  quality: BAD
+- name: Stirlen v. Supercuts, Inc., 51 Cal.App.4th 1519, 60 Cal.Rptr.2d 138 (1997)
+  quality: BAD
+- name: Tameny v. Atlantic Richfield Co., 27 Cal.3d 167, 164 Cal.Rptr. 839, 610 P.2d
+    1330, 9 A.L.R.4th 314 (1980)
+  quality: BAD
+- name: Turner v. Anheuser-Busch, Inc., 7 Cal.4th 1238, 32 Cal.Rptr.2d 223, 876 P.2d
+    1022 (1994)
+  quality: BAD

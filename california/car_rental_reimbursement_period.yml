@@ -1,0 +1,66 @@
+query: car rental reimbursement period
+relevance_criteria: BEST queries are those where there is some issue around the period
+  of time when a car rental reimbursement is reasonable. VERY_GOOD cases deal with
+  reimbursement of car rental costs. Cases mentioning car rentals and reimbursement
+  (but not necessarily about either) are GOOD. Cases not discussing reimbursement
+  or car rentals are BAD.
+cases:
+- name: In re T.C. (Nov. 25, 2009, A125187)
+  quality: BEST
+- name: In re Marriage of Liggins and Payne (Mar. 7, 2008, B191828)
+  quality: VERY_GOOD
+- name: In re Marriage of Mathisen (Mar. 12, 2008, G038321)
+  quality: GOOD
+- name: Interinsurance Exchange of the Automobile Club v. Superior Court, 148 Cal.App.4th
+    1218, 56 Cal.Rptr.3d 421 (2007)
+  quality: GOOD
+- name: Lukather v. General Motors, L.L.C., 181 Cal.App.4th 1041, 104 Cal.Rptr.3d
+    853 (2010)
+  quality: GOOD
+- name: People v. Bradley, 142 Cal.App.4th 247, 47 Cal.Rptr.3d 741 (2006)
+  quality: GOOD
+- name: People v. Bradley, 208 Cal.App.4th 64, 145 Cal.Rptr.3d 67 (2012)
+  quality: GOOD
+- name: People v. Kowitz (Oct. 22, 2012, A132409)
+  quality: GOOD
+- name: Podolsky v. First Healthcare Corp., 50 Cal.App.4th 632, 58 Cal.Rptr.2d 89
+    (1996)
+  quality: GOOD
+- name: Title Ins. Co. v. State Bd. of Equalization, 4 Cal.4th 715, 14 Cal.Rptr.2d
+    822, 842 P.2d 121 (1992)
+  quality: GOOD
+- name: Truta v. Avis Rent A Car System, Inc., 193 Cal.App.3d 802, 238 Cal.Rptr. 806
+    (1987)
+  quality: GOOD
+- name: Comunale v. Traders & Gen. Ins. Co., 50 Cal.2d 654, 328 P.2d 198, 68 A.L.R.2d
+    883 (1958)
+  quality: BAD
+- name: Enterprise Rent-A-Car Co. of San Francisco v. Workmen's Auto Ins. Co., 58
+    Cal.App.4th 1543, 68 Cal.Rptr.2d 725 (1997)
+  quality: BAD
+- name: Flores v. Enterprise Rent-A-Car Co., 188 Cal.App.4th 1055, 116 Cal.Rptr.3d
+    71 (2010)
+  quality: BAD
+- name: Grand Rent A Car Corp. v. 20th Century Ins. Co., 25 Cal.App.4th 1242, 31 Cal.Rptr.2d
+    88 (1994)
+  quality: BAD
+- name: Interinsurance Exchange v. Spectrum Investment Corp., 209 Cal.App.3d 1243,
+    258 Cal.Rptr. 43 (1989)
+  quality: BAD
+- name: Mercury Casualty Co. v. Hertz Corp., 59 Cal.App.4th 414, 69 Cal.Rptr.2d 9
+    (1997)
+  quality: BAD
+- name: Mercury Ins. Co. v. Enterprise Rent-A-Car Co., 80 Cal.App.4th 41, 95 Cal.Rptr.2d
+    222 (2000)
+  quality: BAD
+- name: Osborn v. Hertz Corp., 205 Cal.App.3d 703, 252 Cal.Rptr. 613 (1988)
+  quality: BAD
+- name: Pedersen v. Fiksdal, 185 Cal.App.2d 30, 7 Cal.Rptr. 874 (1960)
+  quality: BAD
+- name: Philadelphia Indemnity Ins. Co. v. Montes-Harris, 40 Cal.4th 151, 51 Cal.Rptr.3d
+    709, 146 P.3d 1251 (2006)
+  quality: BAD
+- name: Pugh v. See's Candies, Inc., 116 Cal.App.3d 311, 171 Cal.Rptr. 917 (1981)
+  quality: BAD
+- name: Schnall v. Hertz Corp., 78 Cal.App.4th 1144, 93 Cal.Rptr.2d 439 (2000)
+  quality: BAD

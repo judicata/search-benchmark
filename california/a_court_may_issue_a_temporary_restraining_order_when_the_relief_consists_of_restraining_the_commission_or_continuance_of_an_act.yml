@@ -1,0 +1,107 @@
+query: A court may issue a temporary restraining order when the relief consists of
+  restraining the commission or continuance of an act
+relevance_criteria: Published cases citing the legal principle referenced here (Code
+  of Civil Procedure section 526) get BEST. Unpublished cases citing it get VERY_GOOD.
+  Other cases are BAD. Cases citing to CCP 526(a)(1) (which is the relevant code section)
+  are GOOD.
+cases:
+- name: Donahue Schriber Realty Group, Inc. v. Nu Creation Outreach, 232 Cal.App.4th
+    1171, 181 Cal.Rptr.3d 577 (2014)
+  quality: BEST
+- name: In re Marriage of Van Hook, 147 Cal.App.3d 970, 195 Cal.Rptr. 541 (1983)
+  quality: BEST
+- name: Kold Kist, Inc. v. Amalgamated Meat Cutters, 99 Cal.App.2d 191, 221 P.2d 724
+    (1950)
+  quality: BEST
+- name: St. James Church v. Superior Court, 135 Cal.App.2d 352, 287 P.2d 387 (1955)
+  quality: BEST
+- name: Mosher v. Kraemer (Sep. 15, 2008, B201219)
+  quality: VERY_GOOD
+- name: Singh v. California (Jan. 12, 2012, B229682)
+  quality: VERY_GOOD
+- name: Advanced Bionics Corp. v. Medtronic, Inc., 29 Cal.4th 697, 128 Cal.Rptr.2d
+    172, 59 P.3d 231 (2002)
+  quality: GOOD
+- name: O'Connell v. City of Stockton, 128 Cal.App.4th 831, 27 Cal.Rptr.3d 696 (2005)
+  quality: GOOD
+- name: Abelleira v. District Court of Appeal, 17 Cal.2d 280, 109 P.2d 942, 132 A.L.R.
+    715 (1941)
+  quality: BAD
+- name: Adler v. Vaicius, 21 Cal.App.4th 1770, 27 Cal.Rptr.2d 32 (1993)
+  quality: BAD
+- name: Aguilar v. Avis Rent A Car System, Inc., 21 Cal.4th 121, 87 Cal.Rptr.2d 132,
+    980 P.2d 846 (1999)
+  quality: BAD
+- name: Bakersfield Citizens for Local Control v. City of Bakersfield, 124 Cal.App.4th
+    1184, 22 Cal.Rptr.3d 203 (2004)
+  quality: BAD
+- name: Cel-Tech Communications, Inc. v. Los Angeles Cellular Telephone Co., 20 Cal.4th
+    163, 83 Cal.Rptr.2d 548, 973 P.2d 527 (1999)
+  quality: BAD
+- name: Diamond View Limited v. Herz, 180 Cal.App.3d 612, 225 Cal.Rptr. 651 (1986)
+  quality: BAD
+- name: Goldin v. Public Utilities Commission, 23 Cal.3d 638, 153 Cal.Rptr. 802, 592
+    P.2d 289 (1979)
+  quality: BAD
+- name: Guz v. Bechtel National, Inc., 24 Cal.4th 317, 100 Cal.Rptr.2d 352, 8 P.3d
+    1089 (2000)
+  quality: BAD
+- name: In re Berry, 68 Cal.2d 137, 65 Cal.Rptr. 273, 436 P.2d 273 (1968)
+  quality: BAD
+- name: McAllister v. County of Monterey, 147 Cal.App.4th 253, 54 Cal.Rptr.3d 116
+    (2007)
+  quality: BAD
+- name: Oil Workers International Union v. Superior Court, 103 Cal.App.2d 512, 230
+    P.2d 71 (1951)
+  quality: BAD
+- name: Palma v. U.S. Industrial Fasteners, Inc., 36 Cal.3d 171, 203 Cal.Rptr. 626,
+    681 P.2d 893 (1984)
+  quality: BAD
+- name: People ex rel. Gallo v. Acuna, 14 Cal.4th 1090, 60 Cal.Rptr.2d 277, 929 P.2d
+    596 (1997)
+  quality: BAD
+- name: People v. Barnett, 17 Cal.4th 1044, 74 Cal.Rptr.2d 121, 954 P.2d 384 (1998)
+  quality: BAD
+- name: People v. Lewis and Oliver, 39 Cal.4th 970, 47 Cal.Rptr.3d 467, 140 P.3d 775
+    (2006)
+  quality: BAD
+- name: People v. Streeter, 54 Cal.4th 205, 142 Cal.Rptr.3d 481, 278 P.3d 754 (2012)
+  quality: BAD
+- name: People v. Superior Court, 13 Cal.4th 497, 53 Cal.Rptr.2d 789, 917 P.2d 628
+    (1996)
+  quality: BAD
+- name: People v. Wheeler, 22 Cal.3d 258, 148 Cal.Rptr. 890, 583 P.2d 748 (1978)
+  quality: BAD
+- name: Powers v. City of Richmond, 10 Cal.4th 85, 40 Cal.Rptr.2d 839, 893 P.2d 1160
+    (1995)
+  quality: BAD
+- name: Professional Engineers v. Department of Transportation, 15 Cal.4th 543, 63
+    Cal.Rptr.2d 467, 936 P.2d 473 (1997)
+  quality: BAD
+- name: Property Reserve, Inc. v. Superior Court, 224 Cal.App.4th 828, 168 Cal.Rptr.3d
+    869 (2014)
+  quality: BAD
+- name: Pugh v. See's Candies, Inc., 116 Cal.App.3d 311, 171 Cal.Rptr. 917 (1981)
+  quality: BAD
+- name: Rowland v. Christian, 69 Cal.2d 108, 70 Cal.Rptr. 97, 443 P.2d 561, 32 A.L.R.3d
+    496 (1968)
+  quality: BAD
+- name: Running Fence Corp. v. Superior Court, 51 Cal.App.3d 400, 124 Cal.Rptr. 339
+    (1975)
+  quality: BAD
+- name: Schraer v. Berkeley Property Owners' Assn., 207 Cal.App.3d 719, 255 Cal.Rptr.
+    453 (1989)
+  quality: BAD
+- name: Spinetta v. Disney (Oct. 23, 2007, A116153)
+  quality: BAD
+- name: United Farm Workers of America v. Superior Court, 14 Cal.3d 902, 122 Cal.Rptr.
+    877, 537 P.2d 1237 (1975)
+  quality: BAD
+- name: Ursino v. Superior Court, 39 Cal.App.3d 611, 114 Cal.Rptr. 404 (1974)
+  quality: BAD
+- name: Wenger v. Commission on Judicial Performance, 29 Cal.3d 615, 175 Cal.Rptr.
+    420, 630 P.2d 954 (1981)
+  quality: BAD
+- name: West Coast Constr. Co. v. Oceano Sanitary Dist., 17 Cal.App.3d 693, 95 Cal.Rptr.
+    169 (1971)
+  quality: BAD

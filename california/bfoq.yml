@@ -1,0 +1,53 @@
+query: bfoq
+relevance_criteria: Johnson Controls is the seminal case on Bona Fide Occupational
+  Qualification. VERY_GOOD results are discrimination cases where "bona fide occupational
+  qualification" or "bfoq" is a raised issue/defense, and there is discussion/mention
+  of the plaintiffs qualifications to perform the jobs duties (which implicates bfoq).
+  The GOOD results are those where bfoq is mentioned (for example, in a quote from
+  the statute), but is not at issue.
+cases:
+- name: Johnson Controls, Inc. v. Fair Employment & Housing Com., 218 Cal.App.3d 517,
+    267 Cal.Rptr. 158 (1990)
+  quality: BEST
+- name: Bagatti v. Department of Rehabilitation, 97 Cal.App.4th 344, 118 Cal.Rptr.2d
+    443 (2002)
+  quality: VERY_GOOD
+- name: Bohemian Club v. Fair Employment & Housing Com., 187 Cal.App.3d 1, 231 Cal.Rptr.
+    769 (1986)
+  quality: VERY_GOOD
+- name: City of Moorpark v. Superior Court, 18 Cal.4th 1143, 77 Cal.Rptr.2d 445, 959
+    P.2d 752 (1998)
+  quality: VERY_GOOD
+- name: County of Alameda v. Fair Employment & Housing Com., 153 Cal.App.3d 499, 200
+    Cal.Rptr. 381 (1984)
+  quality: VERY_GOOD
+- name: Diffey v. Riverside County Sheriff's Department, 84 Cal.App.4th 1031, 101
+    Cal.Rptr.2d 353 (2000)
+  quality: VERY_GOOD
+- name: Green v. State of California, 42 Cal.4th 254, 64 Cal.Rptr.3d 390, 165 P.3d
+    118 (2007)
+  quality: VERY_GOOD
+- name: Green v. State, 132 Cal.App.4th 97, 33 Cal.Rptr.3d 254 (2005)
+  quality: VERY_GOOD
+- name: Hegwer v. Board of Civil Service Commissioners, 5 Cal.App.4th 1011, 7 Cal.Rptr.2d
+    389 (1992)
+  quality: VERY_GOOD
+- name: James v. City of Los Angeles (Dec. 15, 2010, B222168)
+  quality: VERY_GOOD
+- name: Long v. State Personnel Bd., 41 Cal.App.3d 1000, 116 Cal.Rptr. 562 (1974)
+  quality: VERY_GOOD
+- name: Sail'er Inn, Inc. v. Kirby, 5 Cal.3d 1, 95 Cal.Rptr. 329, 485 P.2d 529 (1971)
+  quality: VERY_GOOD
+- name: Sterling Transit Co. v. Fair Employment Practice Com., 121 Cal.App.3d 791,
+    175 Cal.Rptr. 548 (1981)
+  quality: VERY_GOOD
+- name: West v. Bechtel Corp., 96 Cal.App.4th 966, 117 Cal.Rptr.2d 647 (2002)
+  quality: VERY_GOOD
+- name: Marks v. Loral Corp., 57 Cal.App.4th 30, 68 Cal.Rptr.2d 1 (1997)
+  quality: GOOD
+- name: Quinn v. City of Los Angeles, 84 Cal.App.4th 472, 100 Cal.Rptr.2d 914 (2000)
+  quality: GOOD
+- name: Yanowitz v. L'Oreal USA, Inc., 106 Cal.App.4th 1036, 131 Cal.Rptr.2d 575 (2003)
+  quality: GOOD
+- name: In re Marriage of Buol, 39 Cal.3d 751, 218 Cal.Rptr. 31, 705 P.2d 354 (1985)
+  quality: BAD

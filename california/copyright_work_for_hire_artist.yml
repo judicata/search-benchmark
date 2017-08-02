@@ -1,0 +1,36 @@
+query: copyright work for hire artist
+relevance_criteria: BEST cases are those dealing with the copyright around the works
+  of artists hired to do work. VERY_GOOD cases are other copyright work-for-hire cases.
+  BAD cases don't involve work-for-hire.
+cases:
+- name: Tool Touring, Inc. v. The Am. Ins. Co. (May 8, 2012, B230136)
+  quality: BEST
+- name: Wagner v. Columbia Pictures Industries, Inc., 146 Cal.App.4th 586, 52 Cal.Rptr.3d
+    898 (2007)
+  quality: BEST
+- name: Barry v. Twentieth Century Fox Film Corp. (Sep. 20, 2011, B221785)
+  quality: VERY_GOOD
+- name: Bottini v. Legacy 106, Inc. (Nov. 19, 2015, D067119)
+  quality: VERY_GOOD
+- name: Fleet v. CBS, Inc., 50 Cal.App.4th 1911, 58 Cal.Rptr.2d 645 (1996)
+  quality: VERY_GOOD
+- name: Jasmine Networks, Inc. v. Superior Court, 180 Cal.App.4th 980 (2009)
+  quality: VERY_GOOD
+- name: KNB Enterprises v. Matthews, 78 Cal.App.4th 362, 92 Cal.Rptr.2d 713 (2000)
+  quality: VERY_GOOD
+- name: Lugosi v. Universal Pictures, 25 Cal.3d 813, 160 Cal.Rptr. 323, 603 P.2d 425
+    (1979)
+  quality: VERY_GOOD
+- name: Smith v. Paul, 174 Cal.App.2d 744, 345 P.2d 546, 77 A.L.R.2d 1036 (1959)
+  quality: GOOD
+- name: Gladstone v. Hillel, 203 Cal.App.3d 977, 250 Cal.Rptr. 372 (1988)
+  quality: BAD
+- name: No Doubt v. Activision Publishing, Inc., 192 Cal.App.4th 1018, 122 Cal.Rptr.3d
+    397 (2011)
+  quality: BAD
+- name: Preston v. State Bd. of Equalization, 25 Cal.4th 197, 105 Cal.Rptr.2d 407,
+    19 P.3d 1148 (2001)
+  quality: BAD
+- name: Stanley v. Columbia Broadcasting System, 35 Cal.2d 653, 221 P.2d 73, 23 A.L.R.2d
+    216 (1950)
+  quality: BAD

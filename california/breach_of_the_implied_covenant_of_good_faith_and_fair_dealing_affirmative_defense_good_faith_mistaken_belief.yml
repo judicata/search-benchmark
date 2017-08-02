@@ -1,0 +1,72 @@
+query: Breach of the Implied Covenant of Good Faith and Fair Dealing Affirmative Defense
+  Good Faith Mistaken Belief
+relevance_criteria: Seaman's and Foley are the top, seminal cases. So they get BEST.
+  Other "Breach of the Implied Covenant of Good Faith and Fair Dealing" cases discussing
+  a good faith / mistaken belief get VERY_GOOD. Other non-mistaken belief cases get
+  BAD.
+cases:
+- name: Foley v. Interactive Data Corp., 47 Cal.3d 654, 254 Cal.Rptr. 211, 765 P.2d
+    373 (1988)
+  quality: BEST
+- name: Seaman's Direct Buying Service, Inc. v. Standard Oil Co., 36 Cal.3d 752, 206
+    Cal.Rptr. 354, 686 P.2d 1158 (1984)
+  quality: BEST
+- name: Archdale v. American Internat. Specialty Lines Ins. Co., 154 Cal.App.4th 449,
+    64 Cal.Rptr.3d 632 (2007)
+  quality: VERY_GOOD
+- name: Austero v. National Cas. Co., 84 Cal.App.3d 1, 148 Cal.Rptr. 653 (1978)
+  quality: VERY_GOOD
+- name: Burton v. Security Pacific Nat. Bank, 197 Cal.App.3d 972, 243 Cal.Rptr. 277
+    (1988)
+  quality: VERY_GOOD
+- name: California Shoppers, Inc. v. Royal Globe Ins. Co., 175 Cal.App.3d 1, 221 Cal.Rptr.
+    171 (1985)
+  quality: VERY_GOOD
+- name: Careau & Co. v. Security Pacific Business Credit, Inc., 222 Cal.App.3d 1371,
+    272 Cal.Rptr. 387 (1990)
+  quality: VERY_GOOD
+- name: Century Surety Co. v. Polisso, 139 Cal.App.4th 922, 43 Cal.Rptr.3d 468 (2006)
+  quality: VERY_GOOD
+- name: Chateau Chamberay Homeowners Assn. v. Associated Internat. Ins. Co., 90 Cal.App.4th
+    335, 108 Cal.Rptr.2d 776 (2001)
+  quality: VERY_GOOD
+- name: Guz v. Bechtel National, Inc., 24 Cal.4th 317, 100 Cal.Rptr.2d 352, 8 P.3d
+    1089 (2000)
+  quality: VERY_GOOD
+- name: Koehrer v. Superior Court, 181 Cal.App.3d 1155, 226 Cal.Rptr. 820 (1986)
+  quality: VERY_GOOD
+- name: Nieto v. Blue Shield of California Life & Health Ins. Co., 181 Cal.App.4th
+    60, 103 Cal.Rptr.3d 906 (2010)
+  quality: VERY_GOOD
+- name: Pugh v. See's Candies, Inc., 203 Cal.App.3d 743, 250 Cal.Rptr. 195 (1988)
+  quality: VERY_GOOD
+- name: Quigley v. Pet, Inc., 162 Cal.App.3d 877, 208 Cal.Rptr. 394 (1984)
+  quality: VERY_GOOD
+- name: Seubert v. McKesson Corp., 223 Cal.App.3d 1514, 273 Cal.Rptr. 296 (1990)
+  quality: VERY_GOOD
+- name: Storek & Storek, Inc. v. Citicorp Real Estate, Inc., 100 Cal.App.4th 44, 122
+    Cal.Rptr.2d 267 (2002)
+  quality: VERY_GOOD
+- name: Wilkerson v. Wells Fargo Bank, 212 Cal.App.3d 1217, 261 Cal.Rptr. 185 (1989)
+  quality: VERY_GOOD
+- name: Crisci v. Security Ins. Co., 66 Cal.2d 425, 58 Cal.Rptr. 13, 426 P.2d 173
+    (1967)
+  quality: BAD
+- name: Dalrymple v. United Services Auto. Assn., 40 Cal.App.4th 497, 46 Cal.Rptr.2d
+    845 (1995)
+  quality: BAD
+- name: Gruenberg v. Aetna Ins. Co., 9 Cal.3d 566, 108 Cal.Rptr. 480, 510 P.2d 1032
+    (1973)
+  quality: BAD
+- name: Habitat Trust for Wildlife, Inc. v. City of Rancho Cucamonga, 175 Cal.App.4th
+    1306, 96 Cal.Rptr.3d 813 (2009)
+  quality: BAD
+- name: Kransco v. American Empire Surplus Lines Ins. Co., 23 Cal.4th 390, 97 Cal.Rptr.2d
+    151, 2 P.3d 1 (2000)
+  quality: BAD
+- name: Tameny v. Atlantic Richfield Co., 27 Cal.3d 167, 164 Cal.Rptr. 839, 610 P.2d
+    1330, 9 A.L.R.4th 314 (1980)
+  quality: BAD
+- name: Waller v. Truck Ins. Exchange, Inc., 11 Cal.4th 1, 44 Cal.Rptr.2d 370, 900
+    P.2d 619 (1995)
+  quality: BAD

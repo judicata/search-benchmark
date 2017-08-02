@@ -1,0 +1,50 @@
+query: probate code 17200 jury trial
+relevance_criteria: This query is looking for cases regarding a jury trial in the
+  context of a probate matter and section 17200. Reedy v. Bussell is BEST, since it
+  has a clear statement that there is no right to a jury trial in proceedings under
+  the probate code. Other cases dealing with the right to a jury trial under the probate
+  code, and which mention or involve section  17200 are VERY_GOOD. Cases that mention
+  probate code 17200 and jury trial are GOOD. Cases that don't mention jury trial
+  are BAD.
+cases:
+- name: Reedy v. Bussell (Apr. 2, 2009, G040277)
+  quality: BEST
+- name: Alioto v. Manalo (Jun. 28, 2016, A143926)
+  quality: VERY_GOOD
+- name: Cumming v. Cumming (Jul. 20, 2017, E066569)
+  quality: VERY_GOOD
+- name: Cumming v. Cumming (May 12, 2017, E066569)
+  quality: VERY_GOOD
+- name: Estate of Stoddart, 115 Cal.App.4th 1118, 9 Cal.Rptr.3d 770 (2004)
+  quality: VERY_GOOD
+- name: Arnold v. Breza (Oct. 9, 2009, A121138, A121351)
+  quality: GOOD
+- name: Northern Trust Bank v. Pineda, 58 Cal.App.4th 603, 68 Cal.Rptr.2d 357 (1997)
+  quality: GOOD
+- name: Soria v. Soria, 185 Cal.App.4th 780, 111 Cal.Rptr.3d 91 (2010)
+  quality: GOOD
+- name: Valentine v. Read, 50 Cal.App.4th 787, 57 Cal.Rptr.2d 836 (1996)
+  quality: GOOD
+- name: Babbitt v. Superior Court, 246 Cal.App.4th 1135, 201 Cal.Rptr.3d 353 (2016)
+  quality: BAD
+- name: Boys and Girls Club of Petaluma v. Walsh, 169 Cal.App.4th 1049, 87 Cal.Rptr.3d
+    413 (2008)
+  quality: BAD
+- name: Esslinger v. Cummins, 144 Cal.App.4th 517, 50 Cal.Rptr.3d 538 (2006)
+  quality: BAD
+- name: Estate of Bowles, 169 Cal.App.4th 684, 87 Cal.Rptr.3d 122 (2008)
+  quality: BAD
+- name: Estate of Sigourney, 93 Cal.App.4th 593, 113 Cal.Rptr.2d 274 (2001)
+  quality: BAD
+- name: Gridley v. Gridley, 166 Cal.App.4th 1562, 83 Cal.Rptr.3d 715 (2008)
+  quality: BAD
+- name: Ike v. Doolittle, 61 Cal.App.4th 51, 70 Cal.Rptr.2d 887 (1998)
+  quality: BAD
+- name: Kalenian v. Insen, 225 Cal.App.4th 569, 170 Cal.Rptr.3d 755 (2014)
+  quality: BAD
+- name: Quintero v. Quintero (Nov. 27, 2012, A134108)
+  quality: BAD
+- name: Schwartz v. Labow, 164 Cal.App.4th 417, 78 Cal.Rptr.3d 838 (2008)
+  quality: BAD
+- name: Stewart v. Towse, 203 Cal.App.3d 425, 249 Cal.Rptr. 622 (1988)
+  quality: BAD

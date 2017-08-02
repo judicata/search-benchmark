@@ -1,0 +1,49 @@
+query: Unlicensed Painter Fall at Private Residence
+relevance_criteria: BEST cases are those where an unlicensed painter fell while painting
+  a private residence. VERY_GOOD cases are those where an unlicensed painter fell
+  while painting a non-residence. GOOD cases involve unlicensed contractors. The remainder
+  are BAD.
+cases:
+- name: Bussard v. Ings (Oct. 4, 2013, B244911)
+  quality: BEST
+- name: California State Auto. Ass'n Inter-Insurance Bureau v. Workers' Comp. Appeals
+    Bd. & Paul Hestehauge, 137 Cal.App.4th 1040, 40 Cal.Rptr.3d 743 (2006)
+  quality: BEST
+- name: Furtado v. Schriefer, 228 Cal.App.3d 1608, 279 Cal.Rptr. 16 (1991)
+  quality: BEST
+- name: Vebr v. Culp, 241 Cal.App.4th 1044, 194 Cal.Rptr.3d 459 (2015)
+  quality: BEST
+- name: Chin v. Namvar, 166 Cal.App.4th 994, 83 Cal.Rptr.3d 294 (2008)
+  quality: VERY_GOOD
+- name: Gonzalez v. DeBerry (Jul. 25, 2011, A125251)
+  quality: VERY_GOOD
+- name: Cedillo v. Workers' Comp. Appeals Bd., 106 Cal.App.4th 227, 130 Cal.Rptr.2d
+    581 (2003)
+  quality: GOOD
+- name: Cortez v. Abich, 51 Cal.4th 285, 120 Cal.Rptr.3d 520, 246 P.3d 603 (2011)
+  quality: GOOD
+- name: Fernandez v. Lawson, 31 Cal.4th 31, 1 Cal.Rptr.3d 422, 71 P.3d 779 (2003)
+  quality: GOOD
+- name: Heiman v. Workers' Comp. Appeals Bd., 149 Cal.App.4th 724, 57 Cal.Rptr.3d
+    56 (2007)
+  quality: GOOD
+- name: Rosas v. Dishong, 67 Cal.App.4th 815, 79 Cal.Rptr.2d 339 (1998)
+  quality: GOOD
+- name: Zaragoza v. Ibarra, 174 Cal.App.4th 1012, 95 Cal.Rptr.3d 264 (2009)
+  quality: GOOD
+- name: Folsom v. Butte County Assn. of Governments, 32 Cal.3d 668, 186 Cal.Rptr.
+    589, 652 P.2d 437 (1982)
+  quality: BAD
+- name: In re Blaney, 30 Cal.2d 643, 184 P.2d 892 (1947)
+  quality: BAD
+- name: King v. Meese, 43 Cal.3d 1217, 240 Cal.Rptr. 829, 743 P.2d 889 (1987)
+  quality: BAD
+- name: Laguna Publishing Co. v. Golden Rain Foundation, 131 Cal.App.3d 816, 182 Cal.Rptr.
+    813 (1982)
+  quality: BAD
+- name: Marvin v. Marvin, 18 Cal.3d 660, 134 Cal.Rptr. 815, 557 P.2d 106 (1976)
+  quality: BAD
+- name: Pugh v. See's Candies, Inc., 116 Cal.App.3d 311, 171 Cal.Rptr. 917 (1981)
+  quality: BAD
+- name: Serrano v. Unruh, 32 Cal.3d 621, 186 Cal.Rptr. 754, 652 P.2d 985 (1982)
+  quality: BAD

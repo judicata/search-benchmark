@@ -1,0 +1,64 @@
+query: new allegations in opposition to demurrer that are not in the complaint
+relevance_criteria: Published cases where the opposition to a demurrer contained new
+  allegations are BEST. Unpublished cases where the opposition to a demurrer contained
+  new allegations are VERY_GOOD. Other cases are BAD.
+cases:
+- name: Owens v. Kings Supermarket, 198 Cal.App.3d 379, 243 Cal.Rptr. 627 (1988)
+  quality: BEST
+- name: Parthemore v. Col, 221 Cal.App.4th 1372, 165 Cal.Rptr.3d 367 (2013)
+  quality: BEST
+- name: AREI Colonnade 1, L.L.C. v. Stewart Title Guar. Co. (Feb. 21, 2013, A131734)
+  quality: VERY_GOOD
+- name: Bou-Malham v. Farmers Insurance Exchange (Apr. 9, 2008, D050225)
+  quality: VERY_GOOD
+- name: Goldstein v. Lackard (Oct. 8, 2008, A116945)
+  quality: VERY_GOOD
+- name: Lathan v. Edehomon (Nov. 16, 2015, A143596)
+  quality: VERY_GOOD
+- name: Aguilar v. Atlantic Richfield Co., 25 Cal.4th 826, 107 Cal.Rptr.2d 841, 24
+    P.3d 493 (2001)
+  quality: BAD
+- name: Berg & Berg Enterprises, LLC v. Boyle, 178 Cal.App.4th 1020, 100 Cal.Rptr.3d
+    875 (2009)
+  quality: BAD
+- name: Blank v. Kirwan, 39 Cal.3d 311, 216 Cal.Rptr. 718, 703 P.2d 58 (1985)
+  quality: BAD
+- name: Cal-Murphy, L.L.C. v. MG Restaurants, Inc. (Apr. 30, 2014, A136198, A136854)
+  quality: BAD
+- name: Cantu v. Resolution Trust Corp., 4 Cal.App.4th 857, 6 Cal.Rptr.2d 151 (1992)
+  quality: BAD
+- name: Crowley v. Modern Faucet Mfg. Co., 44 Cal.2d 321, 282 P.2d 33 (1955)
+  quality: BAD
+- name: Del E. Webb Corp. v. Structural Materials Co., 123 Cal.App.3d 593, 176 Cal.Rptr.
+    824 (1981)
+  quality: BAD
+- name: Espinoza v. Sutter Med. Ctr. Sacramento (Dec. 16, 2011, C065157)
+  quality: BAD
+- name: Freeman v. San Diego Assn. of Realtors, 77 Cal.App.4th 171, 91 Cal.Rptr.2d
+    534 (1999)
+  quality: BAD
+- name: Genevier v. Los Angeles Cnty. (Mar. 15, 2012, B231298)
+  quality: BAD
+- name: Lake Almanor Associates L.P. v. Huffman-Broadway Group, Inc., 178 Cal.App.4th
+    1194, 101 Cal.Rptr.3d 71 (2009)
+  quality: BAD
+- name: Losonsky v. Davis (Sep. 15, 2014, B251949)
+  quality: BAD
+- name: McKinney v. County of Santa Clara, 110 Cal.App.3d 787, 168 Cal.Rptr. 89 (1980)
+  quality: BAD
+- name: Moore v. Regents of University of California, 51 Cal.3d 120, 271 Cal.Rptr.
+    146, 793 P.2d 479 (1990)
+  quality: BAD
+- name: Oakland Raiders v. National Football League, 131 Cal.App.4th 621, 32 Cal.Rptr.3d
+    266 (2005)
+  quality: BAD
+- name: Ogunsalu v. Lewis (May 23, 2011, D057837)
+  quality: BAD
+- name: Rope v. Auto-Chlor System of Washington, Inc., 220 Cal.App.4th 635, 163 Cal.Rptr.3d
+    392 (2013)
+  quality: BAD
+- name: Rosen v. St. Joseph Hospital of Orange County, 193 Cal.App.4th 453, 121 Cal.Rptr.3d
+    87 (2011)
+  quality: BAD
+- name: Shkolnik v. CitiMortgage, Inc. (Nov. 12, 2014, B246824)
+  quality: BAD

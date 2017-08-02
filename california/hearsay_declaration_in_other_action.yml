@@ -1,0 +1,91 @@
+query: hearsay declaration in other action
+relevance_criteria: VERY_GOOD results deal with testimony in another action (citing
+  section 1290 or 1292). BAD results do not. GOOD results have an issue with regard
+  to testimony in another action but don't cite  the rule, or cite the relevant rule
+  (1290 or 1292) in the context of a prior hearing or related trial.
+cases:
+- name: Handlery Hotels, Inc. v. Meza (Sep. 6, 2007, D048179)
+  quality: VERY_GOOD
+- name: N.N.V. v. American Assn. of Blood Banks, 75 Cal.App.4th 1358, 89 Cal.Rptr.2d
+    885 (1999)
+  quality: VERY_GOOD
+- name: Pear v. City etc. of San Francisco (Mar. 8, 2016, H040600)
+  quality: VERY_GOOD
+- name: Rufo v. Simpson, 86 Cal.App.4th 573, 103 Cal.Rptr.2d 492 (2001)
+  quality: VERY_GOOD
+- name: Townsend v. Special Parking Services, Inc. (Sep. 30, 2015, G050298)
+  quality: VERY_GOOD
+- name: de Soet v. County of Los Angeles (May 5, 2009, B201659)
+  quality: VERY_GOOD
+- name: In re Marriage of Couvrette (Oct. 30, 2007, D047566)
+  quality: GOOD
+- name: People v. Blacksher, 52 Cal.4th 769, 130 Cal.Rptr.3d 191, 259 P.3d 370 (2011)
+  quality: GOOD
+- name: People v. Herrera, 49 Cal.4th 613, 110 Cal.Rptr.3d 729, 232 P.3d 710 (2010)
+  quality: GOOD
+- name: People v. Mayfield, 14 Cal.4th 668, 60 Cal.Rptr.2d 1, 928 P.2d 485 (1997)
+  quality: GOOD
+- name: People v. Williams, 43 Cal.4th 584, 75 Cal.Rptr.3d 691, 181 P.3d 1035 (2008)
+  quality: GOOD
+- name: People v. Wilson, 36 Cal.4th 309, 30 Cal.Rptr.3d 513, 114 P.3d 758 (2005)
+  quality: GOOD
+- name: People v. Zapien, 4 Cal.4th 929, 17 Cal.Rptr.2d 122, 846 P.2d 704 (1993)
+  quality: GOOD
+- name: Cheal v. El Camino Hospital, 223 Cal.App.4th 736, 167 Cal.Rptr.3d 485 (2014)
+  quality: BAD
+- name: Elkins v. Superior Court, 41 Cal.4th 1337, 63 Cal.Rptr.3d 483, 163 P.3d 160
+    (2007)
+  quality: BAD
+- name: Guz v. Bechtel National, Inc., 24 Cal.4th 317, 100 Cal.Rptr.2d 352, 8 P.3d
+    1089 (2000)
+  quality: BAD
+- name: Houghtaling v. Superior Court, 17 Cal.App.4th 1128, 21 Cal.Rptr.2d 855 (1993)
+  quality: BAD
+- name: In re Cindy L., 17 Cal.4th 15, 69 Cal.Rptr.2d 803, 947 P.2d 1340 (1997)
+  quality: BAD
+- name: In re Malinda S., 51 Cal.3d 368, 272 Cal.Rptr. 787, 795 P.2d 1244 (1990)
+  quality: BAD
+- name: Jazayeri v. Mao, 174 Cal.App.4th 301, 94 Cal.Rptr.3d 198 (2009)
+  quality: BAD
+- name: Kincaid v. Kincaid, 197 Cal.App.4th 75, 127 Cal.Rptr.3d 863 (2011)
+  quality: BAD
+- name: Martin v. State Personnel Bd., 26 Cal.App.3d 573, 103 Cal.Rptr. 306 (1972)
+  quality: BAD
+- name: Pajaro Valley Water Management Agency v. McGrath, 128 Cal.App.4th 1093, 27
+    Cal.Rptr.3d 741 (2005)
+  quality: BAD
+- name: People v. Alcalde, 24 Cal.2d 177, 148 P.2d 627 (1944)
+  quality: BAD
+- name: People v. Allen, 65 Cal.App.3d 426, 135 Cal.Rptr. 276 (1976)
+  quality: BAD
+- name: People v. Aranda, 63 Cal.2d 518, 47 Cal.Rptr. 353, 407 P.2d 265 (1965)
+  quality: BAD
+- name: People v. Arias, 13 Cal.4th 92, 51 Cal.Rptr.2d 770, 913 P.2d 980 (1996)
+  quality: BAD
+- name: People v. Curtis, 106 Cal.App.2d 321, 235 P.2d 51 (1951)
+  quality: BAD
+- name: People v. Geier, 41 Cal.4th 555, 61 Cal.Rptr.3d 580, 161 P.3d 104 (2007)
+  quality: BAD
+- name: People v. Guerra, 37 Cal.4th 1067, 40 Cal.Rptr.3d 118, 129 P.3d 321 (2006)
+  quality: BAD
+- name: People v. Gutierrez, 45 Cal.4th 789, 89 Cal.Rptr.3d 225, 200 P.3d 847 (2009)
+  quality: BAD
+- name: People v. Hardy, 2 Cal.4th 86, 10 Cal.Rptr.2d 796, 825 P.2d 781 (1992)
+  quality: BAD
+- name: People v. Horning, 34 Cal.4th 871, 22 Cal.Rptr.3d 305, 102 P.3d 228 (2004)
+  quality: BAD
+- name: People v. Lucas, 12 Cal.4th 415, 48 Cal.Rptr.2d 525, 907 P.2d 373 (1995)
+  quality: BAD
+- name: People v. Marquez, 88 Cal.App.3d 993, 152 Cal.Rptr. 200 (1979)
+  quality: BAD
+- name: People v. Scalzi, 126 Cal.App.3d 901, 179 Cal.Rptr. 61 (1981)
+  quality: BAD
+- name: Tarasoff v. Regents of University of California, 17 Cal.3d 425, 131 Cal.Rptr.
+    14, 551 P.2d 334, 83 A.L.R.3d 1166 (1976)
+  quality: BAD
+- name: Unifund CCR, L.L.C. v. Dear (Dec. 21, 2015)
+  quality: BAD
+- name: Whitehouse v. Six Corp., 40 Cal.App.4th 527, 48 Cal.Rptr.2d 600 (1995)
+  quality: BAD
+- name: Whitlow v. Durst, 20 Cal.2d 523, 127 P.2d 530 (1942)
+  quality: BAD

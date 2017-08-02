@@ -1,0 +1,75 @@
+query: addict feha
+relevance_criteria: All the BEST cases discuss or involve the issue of drug addiction
+  as a protected categorization for feha. The VERY_GOOD results involve feha cases
+  where there is some tangential drug use or addiction. The GOOD results are feha
+  cases mentioning a stemmed version of "addict", or other cases that mention feha
+  and addict. BAD results do not mention or involve "addict" or "addiction".
+cases:
+- name: Shannon v. Los Angeles County Fire Department (Jan. 25, 2012, B223650)
+  quality: BEST
+- name: Sullivan v. Delta Air Lines, Inc., 58 Cal.App.4th 938, 68 Cal.Rptr.2d 584
+    (1997)
+  quality: BEST
+- name: Swenson v. County of Los Angeles, 75 Cal.App.4th 889, 89 Cal.Rptr.2d 572 (1999)
+  quality: BEST
+- name: Brundage v. Hahn, 57 Cal.App.4th 228, 66 Cal.Rptr.2d 830 (1997)
+  quality: VERY_GOOD
+- name: Chavez v. City of Los Angeles (Jul. 21, 2008, B196255)
+  quality: VERY_GOOD
+- name: Hobson v. Raychem Corp., 73 Cal.App.4th 614, 86 Cal.Rptr.2d 497 (1999)
+  quality: VERY_GOOD
+- name: Sinatra v. Chico Unified School District, 119 Cal.App.4th 701, 14 Cal.Rptr.3d
+    661 (2004)
+  quality: VERY_GOOD
+- name: Anguiano v. Ormco Corp. (Nov. 4, 2011, B228600)
+  quality: GOOD
+- name: Carter v. CB Richard Ellis, Inc., 122 Cal.App.4th 1313, 19 Cal.Rptr.3d 519
+    (2004)
+  quality: GOOD
+- name: Emmer v. Adobe Sys. Inc. (Dec. 28, 2007, H030685)
+  quality: GOOD
+- name: Fittante v. Palm Springs Motors, Inc., 105 Cal.App.4th 708, 129 Cal.Rptr.2d
+    659 (2003)
+  quality: GOOD
+- name: Hall v. Goodwill Industries of Southern California, 193 Cal.App.4th 718 (2011)
+  quality: GOOD
+- name: Honig v. County of Los Angeles (May 29, 2014, B244787)
+  quality: GOOD
+- name: Isaka Investments, Ltd. v. Reserva, L.L.C. (Jan. 23, 2014, B245650)
+  quality: GOOD
+- name: Kraus v. Trinity Management Services, Inc., 23 Cal.4th 116, 96 Cal.Rptr.2d
+    485, 999 P.2d 718 (2000)
+  quality: GOOD
+- name: !!python/str "Lares v. La Cl\xEDnica de la Raza, Inc. (Oct. 20, 2010, A126413)"
+  quality: GOOD
+- name: Little v. Auto Stiegler, Inc., 92 Cal.App.4th 329, 112 Cal.Rptr.2d 56 (2001)
+  quality: GOOD
+- name: Modiano v. City of Anaheim (Dec. 30, 2013, G048303)
+  quality: GOOD
+- name: Reynolds v. Bement, 107 Cal.App.4th 738, 132 Cal.Rptr.2d 384 (2003)
+  quality: GOOD
+- name: Stark v. Withrow (Nov. 20, 2009, B212070)
+  quality: GOOD
+- name: Bagatti v. Department of Rehabilitation, 97 Cal.App.4th 344, 118 Cal.Rptr.2d
+    443 (2002)
+  quality: BAD
+- name: Bradley v. Department of Corrections & Rehabilitation, 158 Cal.App.4th 1612,
+    71 Cal.Rptr.3d 222 (2008)
+  quality: BAD
+- name: Gelfo v. Lockheed Martin Corp., 140 Cal.App.4th 34, 43 Cal.Rptr.3d 874 (2006)
+  quality: BAD
+- name: Jensen v. Wells Fargo Bank, 85 Cal.App.4th 245, 102 Cal.Rptr.2d 55 (2000)
+  quality: BAD
+- name: King v. United Parcel Service, Inc., 152 Cal.App.4th 426, 60 Cal.Rptr.3d 359
+    (2007)
+  quality: BAD
+- name: Scotch v. Art Institute of California, 173 Cal.App.4th 986, 93 Cal.Rptr.3d
+    338 (2009)
+  quality: BAD
+- name: Vernon v. State of California, 116 Cal.App.4th 114, 10 Cal.Rptr.3d 121 (2004)
+  quality: BAD
+- name: Wills v. Superior Court, 195 Cal.App.4th 143 (2011)
+  quality: BAD
+- name: Wysinger v. Automobile Club of Southern California, 157 Cal.App.4th 413, 69
+    Cal.Rptr.3d 1 (2007)
+  quality: BAD

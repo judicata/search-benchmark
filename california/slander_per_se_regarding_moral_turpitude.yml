@@ -1,0 +1,85 @@
+query: slander per se regarding moral turpitude
+relevance_criteria: It is unclear what this query is looking for. There are no clearly
+  on point results. Cases that mention slander per se and moral turpitude are VERY_GOOD.
+  Cases that don't mention slander per se or moral turpitude are BAD.
+cases:
+- name: Douglas v. Janis, 43 Cal.App.3d 931, 118 Cal.Rptr. 280 (1974)
+  quality: VERY_GOOD
+- name: Moranville v. Aletto, 153 Cal.App.2d 667, 315 P.2d 91 (1957)
+  quality: VERY_GOOD
+- name: Semple v. Andrews, 27 Cal.App.2d 228, 81 P.2d 203 (1938)
+  quality: VERY_GOOD
+- name: Board of Trustees v. Judge, 50 Cal.App.3d 920, 123 Cal.Rptr. 830 (1975)
+  quality: BAD
+- name: Brewer v. Department of Motor Vehicles, 93 Cal.App.3d 358, 155 Cal.Rptr. 643
+    (1979)
+  quality: BAD
+- name: Burrill v. Nair, 217 Cal.App.4th 357, 158 Cal.Rptr.3d 332 (2013)
+  quality: BAD
+- name: Cartwright v. Board of Chiropractic Examiners, 16 Cal.3d 762, 129 Cal.Rptr.
+    462, 548 P.2d 1134 (1976)
+  quality: BAD
+- name: Clerici v. Department of Motor Vehicles, 224 Cal.App.3d 1016, 274 Cal.Rptr.
+    230 (1990)
+  quality: BAD
+- name: Correia v. Santos, 191 Cal.App.2d 844, 13 Cal.Rptr. 132 (1961)
+  quality: BAD
+- name: Ervin v. Ben-Nun (Aug. 29, 2014, D064236)
+  quality: BAD
+- name: Flatley v. Mauro, 39 Cal.4th 299, 46 Cal.Rptr.3d 606, 139 P.3d 2 (2006)
+  quality: BAD
+- name: Hallinan v. Committee of Bar Examiners, 65 Cal.2d 447, 55 Cal.Rptr. 228, 421
+    P.2d 76 (1966)
+  quality: BAD
+- name: In re Fahey, 8 Cal.3d 842, 106 Cal.Rptr. 313, 505 P.2d 1369, 63 A.L.R.3d 465
+    (1973)
+  quality: BAD
+- name: In re Higbie, 6 Cal.3d 562, 99 Cal.Rptr. 865, 493 P.2d 97 (1972)
+  quality: BAD
+- name: In re Johnson, 1 Cal.4th 689, 4 Cal.Rptr.2d 170, 822 P.2d 1317 (1992)
+  quality: BAD
+- name: In re Kelley, 52 Cal.3d 487, 276 Cal.Rptr. 375, 801 P.2d 1126 (1990)
+  quality: BAD
+- name: In re Rohan, 21 Cal.3d 195, 145 Cal.Rptr. 855, 578 P.2d 102 (1978)
+  quality: BAD
+- name: In re Strick, 34 Cal.3d 891, 196 Cal.Rptr. 509, 671 P.2d 1251 (1983)
+  quality: BAD
+- name: In re Vincent W. Hallinan for Disbarment of Member of State Bar of California,
+    43 Cal.2d 243, 272 P.2d 768 (1954)
+  quality: BAD
+- name: Mann v. Quality Old Time Service, Inc., 120 Cal.App.4th 90, 15 Cal.Rptr.3d
+    215 (2004)
+  quality: BAD
+- name: Morrison v. State Board of Education, 1 Cal.3d 214, 82 Cal.Rptr. 175, 461
+    P.2d 375 (1969)
+  quality: BAD
+- name: People v. Castro, 38 Cal.3d 301, 211 Cal.Rptr. 719, 696 P.2d 111 (1985)
+  quality: BAD
+- name: People v. Chavez, 84 Cal.App.4th 25, 100 Cal.Rptr.2d 680 (2000)
+  quality: BAD
+- name: People v. Coad, 181 Cal.App.3d 1094, 226 Cal.Rptr. 386 (1986)
+  quality: BAD
+- name: People v. Collins, 42 Cal.3d 378, 228 Cal.Rptr. 899, 722 P.2d 173 (1986)
+  quality: BAD
+- name: People v. Feaster, 102 Cal.App.4th 1084, 125 Cal.Rptr.2d 896 (2002)
+  quality: BAD
+- name: People v. Harris, 37 Cal.4th 310, 33 Cal.Rptr.3d 509, 118 P.3d 545 (2005)
+  quality: BAD
+- name: People v. Lepolo, 55 Cal.App.4th 85, 63 Cal.Rptr.2d 735 (1997)
+  quality: BAD
+- name: People v. Navarez, 169 Cal.App.3d 936, 215 Cal.Rptr. 519 (1985)
+  quality: BAD
+- name: People v. Parrish, 170 Cal.App.3d 336, 217 Cal.Rptr. 700 (1985)
+  quality: BAD
+- name: People v. Thomas, 206 Cal.App.3d 689, 254 Cal.Rptr. 15 (1988)
+  quality: BAD
+- name: People v. Wheeler, 4 Cal.4th 284, 14 Cal.Rptr.2d 418, 841 P.2d 938 (1992)
+  quality: BAD
+- name: People v. White, 4 Cal.App.4th 1299, 6 Cal.Rptr.2d 259 (1992)
+  quality: BAD
+- name: Petropoulos v. Department of Real Estate, 142 Cal.App.4th 554, 47 Cal.Rptr.3d
+    812 (2006)
+  quality: BAD
+- name: Rice v. Alcoholic Beverage etc. Appeals Bd., 89 Cal.App.3d 30, 152 Cal.Rptr.
+    285 (1979)
+  quality: BAD

@@ -1,0 +1,73 @@
+query: Single Offensive Act
+relevance_criteria: This query is looking for hostile work environment cases where
+  the rule of a single offensive act is relevant. Dee v. Vintage Petroleum, Inc. is
+  BEST, since it is the most cited case for the rule. VERY_GOOD results are also hostile
+  work environment cases that apply this rule. GOOD results are employment cases that
+  have the words "single," "offensive" and "act." BAD results are criminal cases that
+  discuss single offenses and acts related to them.
+cases:
+- name: Dee v. Vintage Petroleum, Inc., 106 Cal.App.4th 30, 129 Cal.Rptr.2d 923 (2003)
+  quality: BEST
+- name: Brennan v. Townsend & O'Leary Enterprises, Inc., 199 Cal.App.4th 1336, 132
+    Cal.Rptr.3d 292 (2011)
+  quality: VERY_GOOD
+- name: Davidson v. Red Robin International, Inc. (Feb. 4, 2015, C069041)
+  quality: VERY_GOOD
+- name: Dzhanikyan v. Liberty Mut. Ins. Co. (Jun. 15, 2016, B261113)
+  quality: VERY_GOOD
+- name: Encinas v. Burton (Oct. 3, 2011, B220645)
+  quality: VERY_GOOD
+- name: Fuentes v. AutoZone, Inc. (Sep. 10, 2007, B185659)
+  quality: VERY_GOOD
+- name: Haberman v. Cengage Learning, Inc., 180 Cal.App.4th 365, 103 Cal.Rptr.3d 19
+    (2009)
+  quality: VERY_GOOD
+- name: Johnson v. Morales (Apr. 2, 2009, B204818)
+  quality: VERY_GOOD
+- name: Mokler v. County of Orange, 157 Cal.App.4th 121, 68 Cal.Rptr.3d 568 (2007)
+  quality: VERY_GOOD
+- name: Moran v. Forever 21 Logistics, L.L.C. (Aug. 15, 2016, B265988)
+  quality: VERY_GOOD
+- name: Patterson v. Domino's Pizza, L.L.C. (Jun. 4, 2012, B235099)
+  quality: VERY_GOOD
+- name: Patterson v. Domino's Pizza, LLC, 207 Cal.App.4th 385, 143 Cal.Rptr.3d 396
+    (2012)
+  quality: VERY_GOOD
+- name: Polk v. Lowe's HIW, Inc. (Oct. 30, 2014, H039950)
+  quality: VERY_GOOD
+- name: Ramaiya v. Pacific Coast Care Center, LLC (Sep. 20, 2011, H035769)
+  quality: VERY_GOOD
+- name: Shaw v. Longs Drug Stores California, Inc. (Feb. 22, 2011, B222567)
+  quality: VERY_GOOD
+- name: Villalvazo v. Kofax, Inc. (Dec. 12, 2011, G044765)
+  quality: VERY_GOOD
+- name: Fisher v. San Pedro Peninsula Hospital, 214 Cal.App.3d 590, 262 Cal.Rptr.
+    842 (1989)
+  quality: GOOD
+- name: Yanowitz v. L'Oreal USA, Inc., 36 Cal.4th 1028, 32 Cal.Rptr.3d 436, 116 P.3d
+    1123 (2005)
+  quality: GOOD
+- name: Bealmear v. So. Cal. Edison Co., 22 Cal.2d 337, 139 P.2d 20 (1943)
+  quality: BAD
+- name: In re Arthur V., 166 Cal.App.4th 61, 82 Cal.Rptr.3d 148 (2008)
+  quality: BAD
+- name: In re David D., 52 Cal.App.4th 304, 60 Cal.Rptr.2d 552 (1997)
+  quality: BAD
+- name: People v. Bailey, 55 Cal.2d 514, 11 Cal.Rptr. 543, 360 P.2d 39 (1961)
+  quality: BAD
+- name: People v. Brooks, 166 Cal.App.3d 24, 210 Cal.Rptr. 90 (1985)
+  quality: BAD
+- name: People v. Carlin, 150 Cal.App.4th 322, 58 Cal.Rptr.3d 495 (2007)
+  quality: BAD
+- name: People v. Gardner, 90 Cal.App.3d 42, 153 Cal.Rptr. 160 (1979)
+  quality: BAD
+- name: People v. Harris (Nov. 23, 2015, C077557)
+  quality: BAD
+- name: People v. Jaska, 194 Cal.App.4th 971, 123 Cal.Rptr. 760 (2011)
+  quality: BAD
+- name: People v. Sullivan, 80 Cal.App.3d 16, 145 Cal.Rptr. 313 (1978)
+  quality: BAD
+- name: People v. Ward, 30 Cal.App.3d 130, 105 Cal.Rptr. 67 (1973)
+  quality: BAD
+- name: People v. Whitmer, 59 Cal.4th 733, 174 Cal.Rptr.3d 594, 329 P.3d 154 (2014)
+  quality: BAD

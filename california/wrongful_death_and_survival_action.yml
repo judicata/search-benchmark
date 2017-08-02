@@ -1,0 +1,60 @@
+query: '"wrongful death" and "survival action"'
+relevance_criteria: This is an easy query, but not much specificity. There isn't enough
+  context to identify a precisely BEST cases. Published cases with both phrases are
+  VERY_GOOD. Unpublished cases with both phrases are GOOD. Cases without both phrases
+  are BAD.
+cases:
+- name: Adams v. Superior Court, 196 Cal.App.4th 71, 126 Cal.Rptr.3d 186 (2011)
+  quality: VERY_GOOD
+- name: Garofalo v. Princess Cruises, Inc., 85 Cal.App.4th 1060, 102 Cal.Rptr.2d 754
+    (2000)
+  quality: VERY_GOOD
+- name: Padilla v. Rodas, 160 Cal.App.4th 742, 73 Cal.Rptr.3d 114 (2008)
+  quality: VERY_GOOD
+- name: Quiroz v. Seventh Ave. Center, 140 Cal.App.4th 1256, 45 Cal.Rptr.3d 222 (2006)
+  quality: VERY_GOOD
+- name: Rufo v. Simpson, 86 Cal.App.4th 573, 103 Cal.Rptr.2d 492 (2001)
+  quality: VERY_GOOD
+- name: Wilson v. John Crane, Inc., 81 Cal.App.4th 847, 97 Cal.Rptr.2d 240 (2000)
+  quality: VERY_GOOD
+- name: Belvedere v. G.S. Blodgett Corp. (Feb. 4, 2011, B221702)
+  quality: GOOD
+- name: Bhinder v. KF Ontario L.L.C. (Jan. 27, 2016, E062092)
+  quality: GOOD
+- name: Mental Health Am. of Los Angeles v. Astrazeneca Pharm. L.P. (Feb. 13, 2013,
+    B237803)
+  quality: GOOD
+- name: Robins v. Regal Entertainment Group (Oct. 6, 2008, G039205)
+  quality: GOOD
+- name: Secarea v. Regents of Univ. of California (Mar. 4, 2013, G044478)
+  quality: GOOD
+- name: Underhill v. Long Beach Mem'l Med. Ctr. (Apr. 26, 2007, B187644)
+  quality: GOOD
+- name: Wright v. Santa Rosa Mem'l Hosp. (Dec. 17, 2009, A123721)
+  quality: GOOD
+- name: Brumley v. FDCC California, Inc., 156 Cal.App.4th 312, 67 Cal.Rptr.3d 292
+    (2007)
+  quality: BAD
+- name: Chavez v. Carpenter, 91 Cal.App.4th 1433, 111 Cal.Rptr.2d 534 (2001)
+  quality: BAD
+- name: Dominguez v. City of Alhambra, 118 Cal.App.3d 237, 173 Cal.Rptr. 345 (1981)
+  quality: BAD
+- name: Grant v. McAuliffe, 41 Cal.2d 859, 264 P.2d 944, 42 A.L.R.2d 1162 (1953)
+  quality: BAD
+- name: Grimshaw v. Ford Motor Co., 119 Cal.App.3d 757, 174 Cal.Rptr. 348 (1981)
+  quality: BAD
+- name: Horwich v. Superior Court, 21 Cal.4th 272, 87 Cal.Rptr.2d 222, 980 P.2d 927
+    (1999)
+  quality: BAD
+- name: Hunt v. Authier, 28 Cal.2d 288, 169 P.2d 913, 171 A.L.R. 1379 (1946)
+  quality: BAD
+- name: Nelson v. County of Los Angeles, 113 Cal.App.4th 783, 6 Cal.Rptr.3d 650 (2003)
+  quality: BAD
+- name: Pease v. Beech Aircraft Corp., 38 Cal.App.3d 450, 113 Cal.Rptr. 416 (1974)
+  quality: BAD
+- name: San Diego Gas & Electric Co. v. Superior Court, 146 Cal.App.4th 1545, 53 Cal.Rptr.3d
+    722 (2007)
+  quality: BAD
+- name: Sullivan v. Delta Air Lines, Inc., 15 Cal.4th 288, 63 Cal.Rptr.2d 74, 935
+    P.2d 781 (1997)
+  quality: BAD
